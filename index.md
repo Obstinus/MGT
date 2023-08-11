@@ -1,13 +1,13 @@
 ---
-label: Welcome
+label: Bem-vindos
 icon: ":wave:"
 ---
 
-![](/static/thumb/cover.png)
+
 
 # ようこそ !
 
-Welcome to Wotaku! Here, you'll find a diverse range of resources related to manga, anime, light novels, visual novels, and merch. I hope you'll enjoy exploring the wiki.
+Essa é uma wiki que decidi criar para organizar os links que já estavam no Discord
 
 <style>
     .sample {
@@ -17,17 +17,14 @@ Welcome to Wotaku! Here, you'll find a diverse range of resources related to man
     }
 </style>
 
-:::sample
-[!badge variant="dark" icon="/static/asset/ina.gif" size="xl" text="CLICK HERE!"](/qs.md)
-:::
 
-==- Duck's Note
-- The lists are by default alphabetically ordered. If the list isn't in alphabetical order, it means that it has been arranged based on someone's preference, either mine or that of a contributor.
-- The wiki contains ratings for various sites, which I have categorized to provide more detailed information than just using 'NSFW'.
-	- [!badge variant="danger" text="R+"] Uploads NSFW content on a regular basis.
-	- [!badge variant="ghost" text="R"] Uploads NSFW content, but not always/all of them.
-	- [!badge variant="ghost" text="R-"] Rarely uploads NSFW content.
-	- [!badge variant="success" text="E"] Only SFW content.
-	- [!badge variant="ghost" text="NR"] Haven't been rated yet.
-- If you encounter any issues with the websites or software listed, please reach out to their respective communities for assistance. If available, I have provided links to their GitHub pages where you can report the issue.
+==- Nota
+- Por padrão, as listas são ordenadas alfabeticamente. Se a lista não estiver em ordem alfabética, isso significa que ela foi organizada com base na preferência de alguém.
+- O wiki contém classificações para vários sites, que eu categorizei para fornecer informações mais detalhadas do que apenas usar "NSFW".
+	- [!badge variant="danger" text="R+"] Faz upload de conteúdo NSFW regularmente.
+	- [!badge variant="ghost" text="R"] Faz upload de conteúdo NSFW, mas nem sempre/todos eles.
+	- [!badge variant="ghost" text="R-"] Raramente faz upload de conteúdo NSFW.
+	- [!badge variant="success" text="E"] Somente conteúdo SFW.
+	- [!badge variant="ghost" text="NR"] Ainda não foi classificado.
+- Se tiver algum problema com os sites ou softwares listados, entre em contato no Discord.
 ===
