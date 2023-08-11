@@ -1,12 +1,12 @@
 ---
 order: 1200
-label: Quick Start
+label: Comece aqui
 icon: ":zap:"
 ---
 
-![](/static/thumb/qs.png)
-# Quick Start
-Bite-sized Wotaku!
+
+# Comece aqui
+
 ___
 
 ## Websites
@@ -14,7 +14,7 @@ ___
 #### Anime
 - [Aniwave](https://aniwave.to/home) [!badge variant="dark" size="xs" text="aka 9anime"]
 - [Marin](https://marin.moe/)
-- [KickAssAnime](https://kickassanime.am/) (use duck or birdstream if available)
+- [KickAssAnime](https://kickassanime.am/)
 - [Anime out](https://www.animeout.xyz/) [!badge variant="ghost" size="xs" text="DDL"]
 
 #### Manga
@@ -24,7 +24,7 @@ ___
 
 #### OST
 - [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="DDL"]
-- [SquidBoard](https://www.squid-board.org/)  [!badge variant="ghost" size="xs" text="DDL"]  [!badge variant="ghost" size="xs" text="Needs accounnt"]
+- [SquidBoard](https://www.squid-board.org/)  [!badge variant="ghost" size="xs" text="DDL"]  [!badge variant="ghost" size="xs" text="Precisa de conta"]
 - [Anithemes.moe](https://animethemes.moe/) [!badge variant="ghost" size="xs" text="stream"]
 - [Squidify](https://www.squidify.org/) [!badge variant="ghost" size="xs" text="stream"]
 
@@ -41,7 +41,7 @@ ___
 - [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) [!badge variant="ghost" size="xs" text="Manga"]
 - [Saikou](https://github.com/saikou-app/saikou/) [!badge variant="ghost" size="xs" text="Anime"]  [!badge variant="ghost" size="xs" text="Manga"]
 - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) [!badge variant="ghost" size="xs" text="Anime"]  [!badge variant="ghost" size="xs" text="Manga"]
-- [Quicknovel](https://github.com/LagradOst/QuickNovel) [!badge variant="ghost" size="xs" text="LN"]
+- [Quicknovel](https://github.com/LagradOst/QuickNovel) [!badge variant="ghost" size="xs" text="Light Novel"]
 
 #### iOS
 - [Aidoku](https://github.com/Aidoku/Aidoku) [!badge variant="ghost" size="xs" text="Manga"]
