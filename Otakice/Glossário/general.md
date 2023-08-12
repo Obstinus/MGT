@@ -44,7 +44,7 @@ Literalmente "Garota Mágica", é um subgênero de fantasia centrado em garotas 
 Abreviação de "Mechanical" (Mecânico), essas obras apresentam ou se concentram fortemente na inovação mecânica. Robôs, ciborgues, andróides e estações espaciais, por exemplo, estão todos sob o amplo guarda-chuva de mecha; no entanto, os robôs geralmente são o foco principal. Exemplo: [Neon Genesis Evangelion](https://anilist.co/anime/30/Shin-Seiki-Evangelion)
 
 #### Shoujo-ai
-Anime e mangá que exploram relacionamentos homoeróticos emocionais, mas em grande parte platônicos, entre mulheres. As histórias com conteúdo explícito desse tipo são geralmente chamadas de "Yuri" ou "GL. Note that this distinction is only used by western audiences.
+Anime e mangá que exploram relacionamentos homoeróticos emocionais, mas em grande parte platônicos, entre mulheres. As histórias com conteúdo explícito desse tipo são geralmente chamadas de "Yuri" ou "GL. Observe que essa distinção é usada apenas pelo público ocidental.
 
 #### Shounen-ai
 Anime e mangá que exploram relacionamentos homoeróticos emocionais, mas em grande parte platônicos, entre homens. As histórias com conteúdo explícito desse tipo são geralmente chamadas de "Yaoi" ou "BL". Observe que essa distinção é usada apenas pelo público ocidental.
