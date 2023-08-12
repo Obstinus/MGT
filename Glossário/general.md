@@ -98,9 +98,9 @@ ___
 |  -chan  |   Um título honorífico carinhoso que indica familiaridade, usado principalmente em referência a meninas; também usado em referência a pessoas ou animais fofos de ambos os sexos.   |
 |  -(o)nii-chan  |   Uma forma familiar e um tanto infantil de se referir ao irmão mais velho.   |
 |  -(o)nee-chan  |   Uma forma familiar e um tanto infantil de se referir à irmã mais velha.   |
-|  -senpai  |  It is used to address upperclassmen or more experienced coworkers.    |
+|  -senpai  |  É usado para se dirigir a colegas de classe superior ou a colegas de trabalho mais experientes.    |
 |  -sensei  |  Um termo respeitoso para professores, artistas ou profissionais de alto nível.  |
-|  No honorific  |   Indica familiaridade ou proximidade; se usado sem permissão ou razão, dirigir-se a alguém dessa forma constituiria um insulto.   |
+|  Sem honorífico  |   Indica familiaridade ou proximidade; se usado sem permissão ou razão, dirigir-se a alguém dessa forma constituiria um insulto.   |
 
 > Se você quiser mencionar um membro da família de maneira formal, aqui está o [guia](https://rentry.org/jpfamily).
 
