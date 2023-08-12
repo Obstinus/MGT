@@ -18,7 +18,7 @@ Lista de termos para otakus fedidos
 
 ## Dados demográficos
 
-| Genêro    | Público-alvo { class="compact" } |
+| Gênero    | Público-alvo { class="compact" } |
 | :------:  | :------: |
 | Kodomo    | Crianças (under 10)    |
 | Shounen   | Garotos (12-18)     |
@@ -156,7 +156,7 @@ Personagem(ns) que não fica(m) nervoso(s) e constrangido(s) com os outros, mas,
 ==- Hinedere
 Personagem(ns) que tem uma visão cínica do mundo, é frio e muito arrogante. Eles se irritam facilmente com outras pessoas, inclusive com seu interesse amoroso no início. Exemplo: [Annie Leonhart de Attack on Titan](https://anidb.net/character/51168)
 
-[Annie Leonhart](/static/glossary/General/Hinedere.png)
+![Annie Leonhart](/static/glossary/General/Hinedere.png)
 
 ==- Hiyakasudere
 "Hiyakasu" significa "provocar". São personagens que gostam de provocar os outros e, às vezes, flertam com quem gostam. Eles agem de forma realmente sedutora na frente de outras pessoas e provocam aqueles que se sentem envergonhados facilmente por suas ações e palavras, possivelmente o interesse amoroso. Exemplo: [Holo de Spice & Wolf](https://anidb.net/character/29)
