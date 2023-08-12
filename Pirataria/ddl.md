@@ -1,6 +1,7 @@
 ---
 label: Downloads em geral
 order: 396
+icon: ":arrow_down:"
 ---
 ## Para todos os propósitos
 

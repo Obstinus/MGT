@@ -1,6 +1,7 @@
 ---
 label: Streaming asiático
 order: 398
+icon: ":flower_playing_cards:"
 ---
 
 === Streaming

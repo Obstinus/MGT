@@ -1,6 +1,7 @@
 ---
 label: Streaming em geral
 order: 399
+icon: ":arrow_forward:"
 ---
 
 Use esses sites para ver seus filmes, séries e documentários prediletos.

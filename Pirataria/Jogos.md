@@ -1,6 +1,7 @@
 ---
 label: Jogos
 order: 4
+icon: ":video_game:"
 ---
 
 # DDL + Torrents

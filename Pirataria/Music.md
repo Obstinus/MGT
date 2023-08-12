@@ -1,6 +1,7 @@
 ---
 label: Download e descoberta de músicas
 order: 5
+icon: ":notes:"
 ---
 
 === Disclaimer

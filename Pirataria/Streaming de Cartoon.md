@@ -1,6 +1,7 @@
 ---
 label: Streaming de Cartoon
 order: 397
+icon: ":earth_americas:"
 ---
 
 - [WCOFOREVER](https://www.wcofun.net/)

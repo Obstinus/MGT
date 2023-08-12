@@ -1,6 +1,7 @@
 ---
 label: Antes de começar
 order: 400
+icon: ":raised_hand_with_fingers_splayed:"
 ---
 
 Melhore sua experiência na web e torne-a livre de anúncios, mais privada e simplificada.
