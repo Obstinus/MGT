@@ -3,7 +3,6 @@ label: Geral
 order: 105
 ---
 
-![](/static/thumb/glossary.png)
 
 # Glossário
 Lista de termos para otakus fedidos
@@ -19,7 +18,7 @@ Lista de termos para otakus fedidos
 
 ## Dados demográficos
 
-| Genre     | Público-alvo { class="compact" } |
+| Genêro    | Público-alvo { class="compact" } |
 | :------:  | :------: |
 | Kodomo    | Crianças (under 10)    |
 | Shounen   | Garotos (12-18)     |
@@ -90,7 +89,7 @@ ___
 |  Yamato Nadeshiko  |  Termo japonês usado para descrever uma mulher japonesa ideal. Elas são o epítome da beleza pura e feminina.   |
 
 ___
-## Common Honorifics 
+## Honoríficos comuns 
 
 | Termos   | Significado { class="compact" } |
 | ------  | ------ |
