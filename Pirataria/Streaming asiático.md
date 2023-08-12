@@ -14,7 +14,7 @@ order: 2
 - [GoPlay](https://goplay.ml/) [!badge variant="contrast" size="xs" text="1080p"]
     - A chave de acesso é `GOPLAY2023`.
 
-[!button variant="warning" text="Dramas japoneses antigos"](https://jp-films.com)
+[!button variant="warning" text="🎌 Dramas japoneses antigos"](https://jp-films.com)
 ===
 
 ## Downloads
