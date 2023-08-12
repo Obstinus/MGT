@@ -1,55 +1,52 @@
 ---
 label: Websites
 order: 1000
-description: Curated websites for anime, manga, ln & vn.
+description: Curadoria de sites para animes, mangás, Light & Visual Novels.
 icon: ":earth_asia:"
 ---
 
-![](/static/thumb/web.png)
-
 # Websites
 
-Looking for websites that provide manga, anime, light novels, and other things to fulfill your otaku needs? You have arrived at in the website section! In here you will find the finest quality of links extensively tested with love and care.
+Aqui você vai encontrar uma curadoria de sites para todas as suas necessidades de Otaku fedido.
 ___
 
 
-![](/static/banner/anime.png)
-
 ## Anime
 
-If you want to get the best quality, use [Direct Download](/Websites.md/#direct-download-1), [IRC](/Websites.md/#irc), or [Torrent](/Websites.md/#torrents). You can obtain full web release quality on a streaming site that scrapes the official site API, such as [KickAssAnime](https://kickassanime.am/) for Crunchyroll and Bilibili content. Otherwise, it is not be possible to maintain the full quality while managing space & traffic. You can [**network stream**](/Guides/ns.md) files from direct download, irc and torrents.
+Caso queira maior qualidade, use [DDL](/Websites.md/#direct-download-1), [IRC](/Websites.md/#irc), ou [Torrent](/Websites.md/#torrents). Se não quiser baixar nada, você pode usar uma site que faça scraping da API do site oficial, como o [KickAssAnime](https://kickassanime.am/) para conteúdos da Crunchyroll ou do Bilibili.
+
 ___
 
 ### Stream
 
+- [Anix](https://anix.to/)
+    - Maior biblioteca disponível
+    - UI maravilhosa.
 - [**Aniwave**](https://aniwave.to/home) [!badge variant="dark" size="xs" text="aka 9anime"]
-    - Huge library with Watch Together feature
-    - Less amount of compression compared to other sites that use 3rd party hosts
+    - Biblioteca de animes grande.
 - [**Marin**](https://marin.moe/)
-    - Re-encodes files of other encoder groups while keeping the quality consistent
-    - Uploads encoded **Blu-ray** versions if available
-    - Clutter-free design and no watermark
-    - Marin has a good amount of missing titles, especially movies
+    - Recodifica arquivos de outros encoders, mantendo uma boa qualidade
+    - Quando disponível, fazem upload de versões Blu-ray
+    - Biblioteca de animes menor, mas com maior qualidade.
 - [**Aniwatch**](https://aniwatch.to/home) [!badge variant="dark" size="xs" text="aka Zoro"]
-    - Huge library with Watch Together feature
-    - Re-encodes shows for smaller size with lower overall bitrate.
-    - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
+    - Biblioteca de animes grande
+    - Soft subs
+        - Ou seja, há legenda em diversas línguas. Contudo, em alguns cenários elas podem ficar ruins na tela.
 - [**KickAssAnime**](https://kickassanime.am/) [!badge variant="ghost" text="Proxies"](https://kickassanimes.info/)
-    - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
-    - KAA encode(videstreaming) is ok-ish with lower overall bitrate. Use the previous two if available. Duck has the highest overall bitrate
-    - Uses softsub, so may create issues in different scenarios like Aniewatch
-    - Still a beta site and has missing titles. But, you can request them in their support server
+    - Faz scraping da **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
+    - A codificação KAA (videstreaming) é boa, com uma taxa de bits geral mais baixa. Use os dois anteriores, se disponíveis. Duck tem a maior taxa de bits geral
+    - Usa softsub, portanto, pode criar problemas em diferentes cenários, como o Aniwatch
+    - Ainda é um site beta e tem títulos faltando. Mas você pode solicitá-los em seu servidor de suporte.
 - [**Animepahe**](https://animepahe.com/)
-    - Uploads mini encoded files, useful if you want smaller files or have low bandwidth
-    - Uploads **Blu-ray** and **DVD** versions if available
+    - Fazem uploads de versões Blu-ray e DVD, quando disponível
 
-#### Scraper
+#### Scrapers
 - [Kaguya](https://kaguya.app) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="bili"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="marin"] [!badge variant="ghost" size="xs" text="zoro"]
 - [Anify](https://anify.tv/) [!badge variant="ghost" size="xs" text="9anime"] [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="pahe"] [!badge variant="ghost" size="xs" text="zoro"]  [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Novel"]
 - [Enime](https://enime.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/Enime-Project) [!badge variant="ghost" size="xs" text="gogo"] [!badge variant="ghost" size="xs" text="zoro"]
 
 
-=== More
+=== Ver também
 - [Muse Asia](https://www.youtube.com/@MuseAsia/) [!badge variant="ghost" size="xs" text="Regional"]
 - [Ani-One Aisa](https://www.youtube.com/AniOneAsia/) [!badge variant="ghost" size="xs" text="Regional"]
 - [One Pace](https://onepace.net/) [!badge variant="ghost" text="Stream"](https://rentry.co/onepace) [!badge variant="ghost" size="xs" text="Torrent"]
@@ -58,7 +55,7 @@ ___
 - [AnimeXin](https://animexin.vip/) [!badge variant="ghost" size="xs" text="Donghua"]
 ===
 
-> Use [!badge variant="ghost" icon="/static/icon/ada.png"  text="AdAway"](https://adaway.org/) or [!badge variant="ghost" icon="/static/icon/adg.png"  text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="ghost" icon="/static/icon/ubo.png"  text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trakcers.
+> Use [!badge variant="ghost" icon="/static/icon/ada.png"  text="AdAway"](https://adaway.org/) ou [!badge variant="ghost" icon="/static/icon/adg.png"  text="Adguard"](https://adguard.com/en/welcome.html) no Android e [!badge variant="ghost" icon="/static/icon/ubo.png"  text="uBlock Origin"](https://ublockorigin.com/) nos seus navegadores para bloquear anúncios.
 
 
 ### Direct Download
@@ -74,29 +71,29 @@ ___
 - [JPFiles](https://jpfiles.eu/) [!badge size="xs" variant="warning" icon="sparkle-fill" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Misc"] [!badge variant="ghost" size="xs" text="Host"]
 - [JPLearner](http://www.jplearner.to/) [!badge size="xs" variant="warning" icon="sparkle-fill" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Misc"] [!badge variant="ghost" size="xs" text="Host"]
 
-> To download in Android, use [!badge variant="ghost" icon="/static/icon/1dm.png" text="1DM"](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US), [!badge variant="ghost" icon="/static/icon/fdm.png" text="FDM"](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) or [!badge variant="ghost" icon="/static/icon/adm.png" text="ADM"](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US). For PC, use [!badge variant="ghost" icon="/static/icon/idm.webp" text="IDM"](https://www.internetdownloadmanager.com/), [!badge variant="ghost" icon="/static/icon/jdl.png" text="JDL"](https://jdownloader.org/) or [!badge variant="ghost" icon="/static/icon/fdm.png" text="FDM"](https://www.freedownloadmanager.org/). You can use JDL & FDM on Linux & macOS too. Read [this guide](https://rentry.org/jdownloader2) to debloat JDL.
+> Para fazer download no Android, use [!badge variant="ghost" icon="/static/icon/1dm.png" text="1DM"](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US), [!badge variant="ghost" icon="/static/icon/fdm.png" text="FDM"](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) ou [!badge variant="ghost" icon="/static/icon/adm.png" text="ADM"](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US). Para PC, use [!badge variant="ghost" icon="/static/icon/idm.webp" text="IDM"](https://www.internetdownloadmanager.com/), [!badge variant="ghost" icon="/static/icon/jdl.png" text="JDL"](https://jdownloader.org/) ou [!badge variant="ghost" icon="/static/icon/fdm.png" text="FDM"](https://www.freedownloadmanager.org/). Para Linux e Mac, use o JDL e/ou o FDM.
 
 ### IRC
 - [**nibl**](https://nibl.co.uk/search)
 	- Server: `irc.rizon.net`
-	- Port: `6697`
-	- Channel: `#nibl`
+	- Porta: `6697`
+	- Canal: `#nibl`
 - [**subsplease**](https://subsplease.org/xdcc/)
 	- Server: `irc.rizon.net`
-	- Port: `6697`
-	- Channel: `#subsplease`
+	- Porta: `6697`
+	- Canal: `#subsplease`
 - **madokami**
 	- Server: `irc.rizon.net`
-	- Port: `6697`
-	- Channel: `#madokami`
+	- Porta: `6697`
+	- Canal: `#madokami`
 - [**animk**](https://animk.info/xdcc/)
 	- Server: `irc.xertion.org`
-	- Port: `6697`
-	- Channel: `#MK` or `XDCCLeech`
+	- Porta: `6697`
+	- Canal: `#MK` or `XDCCLeech`
 - [**XDCC EU**](https://www.xdcc.eu/)
 - [**SunXDCC**](https://sunxdcc.com/)
 
-> To learn how to use IRC, you can read [**the guide**](/IRC.md).
+> Para aprender a utilizar o IRC, você pode ler [**este guia**](/IRC.md).
 
 ### Torrents
 
@@ -107,58 +104,54 @@ ___
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/) | [Tokyo tosho](https://www.tokyotosho.info/)
 
-==- :icon-light-bulb: Quick Tips
+==- :icon-light-bulb: Dicas rápidas
 
-> For torrent related terms, [click here](https://rentry.org/The-Piracy-Glossary#torrenting-terms).
+> Para um glossário de termos relacionados ao torrent, [clique aqui](https://rentry.org/The-Piracy-Glossary#torrenting-terms).
 
-> Recommended torrent client for Android is [!badge variant="ghost" icon="/static/icon/lt.png"  text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS, use [!badge variant="ghost" icon="/static/icon/qb.svg"  text="qBittorrent"](https://www.qbittorrent.org/) or [!badge variant="ghost" icon="/static/icon/trans.png"  text="Transmission"](https://transmissionbt.com/).
+> O client torrent recomendado para android é [!badge variant="ghost" icon="/static/icon/lt.png"  text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). Para Windows, Linux & macOS, use [!badge variant="ghost" icon="/static/icon/qb.svg"  text="qBittorrent"](https://www.qbittorrent.org/) ou o [!badge variant="ghost" icon="/static/icon/trans.png"  text="Transmission"](https://transmissionbt.com/).
 
-> For VPN, use [!badge variant="ghost" icon="/static/icon/mv.png"  text="Mullvad"](https://mullvad.net/) or [!badge variant="ghost" icon="/static/icon/ivpn.png"  text="IVPN"](https://www.ivpn.net/). If you want free alternative, use [!badge variant="ghost" icon="/static/icon/wind.png"  text="Windscribe"](https://windscribe.com/).
+> Para VPN, use [!badge variant="ghost" icon="/static/icon/mv.png"  text="Mullvad"](https://mullvad.net/) ou [!badge variant="ghost" icon="/static/icon/ivpn.png"  text="IVPN"](https://www.ivpn.net/).
 
-> Use [Seadex](https://releases.moe/) or [Sneedex](https://sneedex.moe/) to find the best uploads available.
+> Use o [Seadex](https://releases.moe/) ou o [Sneedex](https://sneedex.moe/) para encontrar os melhores releases.
 
 ===
-
-> All the **Legal** anime streaming services are listed [here](https://otakulogy.github.io/anime-streaming/).
-
-
-![](/static/banner/manga.png)
 
 ## Manga
 ___
 
-### Reader
+### Leitores
 
 - [**Mangadex**](https://mangadex.org/) [!badge variant="danger" size="xs" text="R+"]
-    * Uploads without compression
-    * Best reader UI
-    * Uploads from various scanlation groups
-    * No official translations[^*^](https://mangadex.org/rules#content_restrictions) since it was created for fansub
-    * May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)
+    * Uploads sem compressão
+    * Leitor excelente
+    * Uploads de vários scanlators diferentes
+    * Sem traduções oficiais[^*^](https://mangadex.org/rules#content_restrictions), já que é feito para fansubs.
+    * Ele pode remover conteúdo se receber algum DMCA, como ocorre, por exemplo, com One Punch Man.
 - [**Comick**](https://comick.app/home) [!badge variant="ghost" size="xs" text="R"]
-    * Minimal compression
-    * Aggregates from various scanlation groups
-    * Has official translations
+    * Site muito veloz
+    * Agrega vários scanlators diferentes
+    * Possui traduções oficiais.
 - [**Mangasee**](https://mangasee123.com/) | [Mangalife](https://manga4life.com/) | [Atsumaru](https://atsu.moe/) [!badge variant="ghost" size="xs" text="R"]
-    * Has official translations
-    * Compresses chapter images
-    * Chapter updates are relatively slow
-    * [Atsumaru](https://atsu.moe/) scrapes from Mangasee but has better UI
+    * Possui traduções oficiais
+    * Compacta as imagens
+    * Updates dos capítulos são mais lerdos
+    * [Atsumaru](https://atsu.moe/) faz scraping do Mangasee, contudo possui um leitor superior.
 - [**Colored Manga**](https://coloredmanga.com/) [!badge variant="ghost" size="xs" text="R"]
-    * Uploads without compression but mostly Shounen centric
-    * Has both B&W and colored releases
-    * Uploads official translations & volume releases (if available)
-    * Lacks in library and upload schedule
+    * Uploads sem compressão
+    * Majoritariamente faz uploads de Shounens
+    * Possui releases coloridos e em preto e branco
+    * Faz upload de traduções oficiais e de volumes inteiros
+    * Não possui um cronograma de uploads
 - [**Mangapark**](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
-    * No Compressed uploads (If source had no compression)
-    * Has official translations
-    * UI is a bit cluttered with no upload tags
+    * Não faz upload de arquivos comprimidos
+    * Possui traduções oficiais
+    * A interface do usuário é um pouco confusa, sem tags de upload
 - [**Batoto**](https://battwo.com/v3x) | [Mangatoto](https://mangatoto.com/) [!badge variant="danger" size="xs" text="R+"]
-    - Has official translations
-    - Has some exclusive uploads
-    - Indexing is poor quality
+    - Possui traduções oficiais
+    - Tem alguns uploads exclusivos
+    - A indexação é de baixa qualidade
 
-=== More
+=== Ver também
 - [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="danger" size="xs" text="R+"]
 - [Manga Katana](https://mangakatana.com/) [!badge variant="danger" size="xs" text="R+"]
 - [Manga Fire](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R"]
@@ -171,21 +164,21 @@ ___
 - [Manganato](https://chapmanganato.com/nato) [!badge variant="ghost" size="xs" text="R"]
 ===
 
-=== Rating
-[!badge variant="danger" text="R+"] Uploads NSFW content on a regular basis.
+=== Legenda
+[!badge variant="danger" text="R+"] Faz upload de conteúdo NSFW regularmente.
 
-[!badge variant="ghost" text="R"] Uploads NSFW content, but not always/all of them.
+[!badge variant="ghost" text="R"] Faz upload de conteúdo NSFW, mas nem sempre.
 
-[!badge variant="ghost" text="R-"] Rarely uploads NSFW content.
+[!badge variant="ghost" text="R-"] Raramente faz uploads de conteúdo NSFW.
 
-[!badge variant="success" text="E"] Only SFW content.
+[!badge variant="success" text="E"] Apenas conteúdo SFW.
 
-[!badge variant="ghost" text="NR"] Haven't been rated yet.
+[!badge variant="ghost" text="NR"] Não sei dizer.
 
-**Note**: None of the websites mentioned are exclusively dedicated to NSFW content. [**Click here**](/nsfw.md/#manga) for the hmanga sites.
+**Nota**: Nenhum dos sites mencionados são exclusivamente dedicados ao conteúdo adulto.
 ===
 
-#### Scanlator
+#### Scanlators
 
 ==- Manga
 - [Animated Glitched Scans](https://anigliscans.com/) + `KR` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans) [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans)
@@ -235,9 +228,9 @@ ___
 - [xCaliBR Scans](https://xcalibrscans.com/) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr)
 ===
 
-> I have added all the well-known scanlators for manhwa and manhua, but for manga, it's not practical or possible to add all the famous ones. So I have added my favorite ones. Yes, this section is kind of biased.
+> Eu adicionei todos os scanlators conhecidos para manhwa e manhua, mas para mangá, não é prático ou possível adicionar todos os famosos.
 
-### Nyaa Uploaders
+### Uploaders do Nyaa
 - [0v3r](https://nyaa.si/user/0v3r) [!badge variant="ghost" size="xs" text="compilation"]
 - [1r0n](https://nyaa.si/user/tsuna69) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="comikey"] [!badge variant="ghost" size="xs" text="jnovel"] [!badge variant="ghost" size="xs" text="kmanga"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="sq. enix"] [!badge variant="ghost" size="xs" text="up!"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
 - [anadius](https://nyaa.si/user/anadius) [!badge variant="ghost" size="xs" text="viz"]
@@ -253,39 +246,39 @@ ___
 - [Stick](https://nyaa.si/user/dumbboy58) [!badge variant="ghost" size="xs" text="audio"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
 - [Ushi](https://nyaa.si/user/bakaushi) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="yen"]
 
-### Direct Download
+### Download direto
 - [mp4directs](https://mp4directs.com/)
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) [!badge variant="danger" size="xs" text="R+"]
 - [Anna's Archive](https://annas-archive.org/)
 
-==- Madokami Guide
-#### Step 1
-Choose an [IRC client](https://ircv3.net/software/clients) you're comfortable with, as you can't use web IRC.
+==- Guia para entrar no Madokami
+#### Passo 1
+Escolha um [cliente de IRC](https://ircv3.net/software/clients) com o qual você se sinta confortável, pois não pode usar o IRC da web
 
-#### Step 2
-Connect to **Rizon IRC network**.
+#### Passo 2
+Conecte-se à **rede Rizon IRC**.
 
-#### Step 3
-Register your nickname (all explained in detail [here](https://wiki.rizon.net/index.php?title=Register_your_nickname)) and then add the IDENTIFY command to the Connect commands for Rizon
+#### Passo 3
+Registre seu nick (como explicado em detalhes [aqui](https://wiki.rizon.net/index.php?title=Register_your_nickname)) e, em seguida, adicione o comando IDENTIFY aos comandos Connect para Rizon
 
-#### Step 4
-Type `/join #madokami`
+#### Passo 4
+Digite `/join #madokami`
 
-#### Step 5
-Once there, type the following command into the channel - `/msg sola REGISTER username password` (you **shouldn't reuse the password** from [Step 2](/Websites.md/#step-2))
+#### Passo 5
+Uma vez lá, digite o seguinte comando no canal - `/msg sola REGISTER username password` (você **não deve reutilizar a senha** do [Passo 2](/Websites.md/#passo-2))
 
-Repeat this until you get an account, the cooldown should be 4 hours.
+Repita isso até obter uma conta, o tempo de espera deve ser de 4 horas
 
-#### Step 6
-You may now use your credentials to log into https://manga.madokami.al and enjoy their manga DDL directory (note that you can only download 3 files at the same time, but don't have limits besides that)
+#### Passo 6
+Agora você pode usar suas credenciais para entrar em https://manga.madokami.al e desfrutar de seu diretório manga DDL (observe que você só pode baixar 3 arquivos ao mesmo tempo, mas não tem limites além disso)
 ===
 
 > All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/) and [here](https://wherecanireadmanga.com/).
 
-![](/static/banner/ost.png)
 
-## Original Sound Track
+
+## Original Sound Tracks
 ___
 
 ### Stream
@@ -303,9 +296,6 @@ ___
 - [Hiyori OST](https://www.hiyoriost.com/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Host"]
 - [Sakura OST](https://www.sakuraost.com/) [!badge variant="ghost" size="xs" text="Host"]
 
-
-
-![](/static/banner/ln.png)
 
 ## Light Novels
 ___
@@ -342,7 +332,7 @@ ___
 - [Stick](https://nyaa.si/user/dumbboy58)
 
 
-![](/static/banner/vn.png)
+
 ## Visual Novels
 ___
 
