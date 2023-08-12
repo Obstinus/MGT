@@ -1,13 +1,12 @@
 ---
-label: Misc-sites
+label: Misc
 order: 900
 description: Sites para informações, guias, etc.
 icon: ":card_file_box:"
 ---
 
-![](/static/thumb/ms.png)
 
-# Misc-sites
+# Misc
 Aqui você pode encontrar várias comunidades, guias e ferramentas que lhe interessar.
 ___
 
@@ -24,7 +23,7 @@ ___
 ### Anime
 
 
-#### Bases de dado
+#### Bases de dados
 - [aniDB](https://anidb.net/)
 - [Anilist](https://anilist.co/)
 - [Anime News Network](https://www.animenewsnetwork.com/)
@@ -63,7 +62,7 @@ ___
 - [Indonasian Fansubbers' Index](https://www.fansub.id/home)
 
 
-### MiscellaneousMisc
+### Misc
 
 #### Light Novels
 - [Novel updates](https://www.novelupdates.com/)
@@ -75,7 +74,7 @@ ___
 - [VNStat](https://vnstat.net/)
 - [r/Visualnovels' links](https://www.reddit.com/r/visualnovels/wiki/links/)
 
-## Others
+## Outros
 ___
 
 ### Recomendações de diversas comunidades

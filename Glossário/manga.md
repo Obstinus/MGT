@@ -1,12 +1,12 @@
 ---
-label: Manga
+label: Mangá
 order: 95
 ---
 
-# Glossário para magnás
+# Glossário para mangás
 
 ___
-## Terms 
+## Termos 
 
 #### 4-Koma
 O 4-Koma (também conhecido como mangá Yonkoma) apresenta quatro painéis e segue um padrão específico em que cada quatro painéis conduzem a uma frase de efeito. Eles são lidos de cima para baixo em vez da tradicional direita-esquerda. A coluna da direita é sempre a coluna inicial. Exemplo: [Tsurezure Children](https://mangadex.org/title/a840d47c-4080-4783-9c42-af8100e48079/tsurezure-children)
@@ -79,7 +79,7 @@ ___
 ## Scanlation
 
 #### Scanlator
-Um grupo de fãs que traduzem um mangá/manhwa/manhua. O grupo pega o arquivo bruto e traduz o mangá inteiro (incluindo diálogos, efeitos especiais e outras formas de texto). Além disso, às vezes os [jogos de palavras] (https://psychology.fandom.com/wiki/Japanese_wordplay) e as referências culturais fornecidas nesse capítulo são explicados na seção de créditos.
+Um grupo de fãs que traduzem um mangá/manhwa/manhua. O grupo pega o arquivo bruto e traduz o mangá inteiro (incluindo diálogos, efeitos especiais e outras formas de texto). Além disso, às vezes os [jogos de palavras](https://psychology.fandom.com/wiki/Japanese_wordplay) e as referências culturais fornecidas nesse capítulo são explicados na seção de créditos.
 
 #### Cleaner (CL)
 O Cleaner pega o arquivo bruto, corrige quaisquer falhas (como artefatos devido à digitalização, mudanças de cor, inclinações etc.) e limpa todo o texto original, inclusive SFX, se necessário. Mas, atualmente, isso pode ser apenas a remoção de textos, já que o formato digital bruto está amplamente disponível.

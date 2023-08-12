@@ -8,7 +8,7 @@ order: 105
 # Glossário
 Lista de termos para otakus fedidos
 
-## Region
+## Região
 
 | País   | Comics   | Animation { class="compact" } |
 | :------:  | :------: | :------: |
@@ -148,16 +148,16 @@ Personagem(ns) que não fica(m) nervoso(s) e constrangido(s) com os outros, mas,
 
 ==- Himedere/Oujidere/Kamidere
 
-| Terms     | Meaning { class="compact" } |
+| Termos   | Significado { class="compact" } |
 | ------  | ------ |
 | Himedere | **Hime** significa princesa. É uma personagem que deseja ser tratada como uma princesa ou uma rainha pela pessoa que ama, mesmo que não seja da realeza de fato. Exemplo: [Nakiri Erina de Food Wars](https://anidb.net/character/71284) |
-| Oujidere | ***Ouji** significa príncipe. É a contraparte masculina. Exemplo: [Lelouch Lamperouge de Code Geass](https://anidb.net/character/103) |
+| Oujidere | **Ouji** significa príncipe. É a contraparte masculina. Exemplo: [Lelouch Lamperouge de Code Geass](https://anidb.net/character/103) |
 | Kamidere | **Kami** significa deus. É o mesmo conceito, mas levado ao extremo. Exemplo: [Kiryuuin Satsuki de Kill la Kill](https://anidb.net/character/56259) |
 
 ==- Hinedere
 Personagem(ns) que tem uma visão cínica do mundo, é frio e muito arrogante. Eles se irritam facilmente com outras pessoas, inclusive com seu interesse amoroso no início. Exemplo: [Annie Leonhart de Attack on Titan](https://anidb.net/character/51168)
 
-Annie Leonhart](/static/glossary/General/Hinedere.png)
+[Annie Leonhart](/static/glossary/General/Hinedere.png)
 
 ==- Hiyakasudere
 "Hiyakasu" significa "provocar". São personagens que gostam de provocar os outros e, às vezes, flertam com quem gostam. Eles agem de forma realmente sedutora na frente de outras pessoas e provocam aqueles que se sentem envergonhados facilmente por suas ações e palavras, possivelmente o interesse amoroso. Exemplo: [Holo de Spice & Wolf](https://anidb.net/character/29)
@@ -178,7 +178,7 @@ Personagem(ns) sonolento(s) - dorme(m) com ou sem intenção de fazê-lo, e tamb
 
 ![Princess Syalis](/static/glossary/General/Nemuidere.png)
 
-| Termos Significado { class="compact" } |
+| Termos | Significado { class="compact" } |
 | ------ | ------ |
 | Darudere | Semelhante ao Nemuidere, mas a diferença é que onde "Nemui" significa sonolento, "Daru" significa preguiçoso, eles são muito preguiçosos e preguiçosos e, ao contrário do Nemuidere, só fazem coisas para as pessoas de quem gostam e reclamam durante o processo de fazer algo, caso contrário, são apenas chatos e preguiçosos para os outros. Exemplo: [Doma Umaru de Himouto! Umaru-chan](https://anidb.net/character/75170)
 
@@ -198,7 +198,7 @@ Personagem(ns) que se entrega(m) à manipulação dos sentimentos de sua paixão
 
 ![Nagatoro](/static/glossary/General/Sadodere.png)
 
-| Termos Significado { class="compact" } |
+| Termos | Significado { class="compact" } |
 | ------ | ------ |
 | Masodere | Personagem(ns) que gosta(m) de se humilhar, eles complementam o sadodere, portanto, quando combinados, são chamados de Sadomasodere. Exemplo: [Darkness from Konosuba](https://anidb.net/character/78021) |
 

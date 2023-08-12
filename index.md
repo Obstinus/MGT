@@ -7,7 +7,7 @@ icon: ":wave:"
 
 # ようこそ !
 
-Essa é uma wiki que decidi criar para organizar os links que já estavam no Discord
+Essa é uma wiki que decidi criar para organizar os links que já estavam no Discord.
 
 <style>
     .sample {
@@ -18,7 +18,7 @@ Essa é uma wiki que decidi criar para organizar os links que já estavam no Dis
 </style>
 
 
-==- Nota
+==- Leia aqui antes de navegar pela nossa Wiki.
 - Por padrão, as listas são ordenadas alfabeticamente. Se a lista não estiver em ordem alfabética, isso significa que ela foi organizada com base na preferência de alguém.
 - O wiki contém classificações para vários sites, que eu categorizei para fornecer informações mais detalhadas do que apenas usar "NSFW".
 	- [!badge variant="danger" text="R+"] Faz upload de conteúdo NSFW regularmente.

@@ -70,14 +70,14 @@ ___
 
 ### Light Novel
 
-- [**Moon+ Reader Pro**] (https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US)
+- [**Moon+ Reader Pro**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US)
   - UI personalizável
   - Suporte a fontes on-line
   - Analytics de leitura no aplicativo
   - Suporte a backup e restauração
   - Sem suporte a rastreadores
   - Muitos recursos são pagos, a versão gratuita exibe anúncios em banner
-- [**ReadEra**] (https://play.google.com/store/apps/details?id=org.readera&hl=en&gl=US)
+- [**ReadEra**](https://play.google.com/store/apps/details?id=org.readera&hl=en&gl=US)
   - Interface de usuário agradável com personalização limitada
   - A versão gratuita não tem anúncios.
   - Não há analytics de leitura no aplicativo
@@ -123,8 +123,8 @@ ___
     - Pode baixar mangás
     - Não há integração com rastreadores
 
-=== Clientes
-- [**Tachidesk base**] (https://github.com/Suwayomi/Tachidesk-Server)
+=== Clients
+- [**Tachidesk base**](https://github.com/Suwayomi/Tachidesk-Server)
     - Muitas fontes para escolher
     - configurações básicas para leitura
     - carece de recursos básicos de leitura
@@ -183,13 +183,13 @@ ___
 
 ### Anime
 
-- [**Anime Now**] (https://github.com/AnimeNow-Team/AnimeNow)
+- [**Anime Now**](https://github.com/AnimeNow-Team/AnimeNow)
   - Ótima interface de usuário com suporte a extensões
   - Suporte ao download de episódios
   - Suporte a video casting
   - Suporte a rastreamento
   - Disponível somente por meio de sideload
-- [**9Animator**] (https://github.com/SuperMarcus/NineAnimator)
+- [**9Animator**](https://github.com/SuperMarcus/NineAnimator)
   - Interface de usuário decente com integração de extensões
   - Suporte a transmissão e notificação
   - Suporte a rastreamento

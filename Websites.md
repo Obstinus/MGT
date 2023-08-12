@@ -8,8 +8,21 @@ icon: ":earth_asia:"
 # Websites
 
 Aqui você vai encontrar uma curadoria de sites para todas as suas necessidades de Otaku fedido.
-___
 
+=== Legenda
+[!badge variant="danger" text="R+"] Faz upload de conteúdo NSFW regularmente.
+
+[!badge variant="ghost" text="R"] Faz upload de conteúdo NSFW, mas nem sempre.
+
+[!badge variant="ghost" text="R-"] Raramente faz uploads de conteúdo NSFW.
+
+[!badge variant="success" text="E"] Apenas conteúdo SFW.
+
+[!badge variant="ghost" text="NR"] Não sei dizer.
+
+**Nota**: Nenhum dos sites mencionados são exclusivamente dedicados ao conteúdo adulto.
+===
+___
 
 ## Anime
 
@@ -19,7 +32,7 @@ ___
 
 ### Stream
 
-- [Anix](https://anix.to/)
+- [**Anix**](https://anix.to/)
     - Maior biblioteca disponível
     - UI maravilhosa.
 - [**Aniwave**](https://aniwave.to/home) [!badge variant="dark" size="xs" text="aka 9anime"]
@@ -164,20 +177,6 @@ ___
 - [Manganato](https://chapmanganato.com/nato) [!badge variant="ghost" size="xs" text="R"]
 ===
 
-=== Legenda
-[!badge variant="danger" text="R+"] Faz upload de conteúdo NSFW regularmente.
-
-[!badge variant="ghost" text="R"] Faz upload de conteúdo NSFW, mas nem sempre.
-
-[!badge variant="ghost" text="R-"] Raramente faz uploads de conteúdo NSFW.
-
-[!badge variant="success" text="E"] Apenas conteúdo SFW.
-
-[!badge variant="ghost" text="NR"] Não sei dizer.
-
-**Nota**: Nenhum dos sites mencionados são exclusivamente dedicados ao conteúdo adulto.
-===
-
 #### Scanlators
 
 ==- Manga
@@ -273,10 +272,6 @@ Repita isso até obter uma conta, o tempo de espera deve ser de 4 horas
 #### Passo 6
 Agora você pode usar suas credenciais para entrar em https://manga.madokami.al e desfrutar de seu diretório manga DDL (observe que você só pode baixar 3 arquivos ao mesmo tempo, mas não tem limites além disso)
 ===
-
-> All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/) and [here](https://wherecanireadmanga.com/).
-
-
 
 ## Original Sound Tracks
 ___
