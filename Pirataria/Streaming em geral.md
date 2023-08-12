@@ -31,8 +31,8 @@ Use esses sites para ver seus filmes, séries e documentários prediletos.
 - [EZTV](https://eztv.re/)
 - [BTDIGG](https://btdig.com/)
 - [rutracker](https://rutracker.org/forum/index.php)
- - Não se intimide por ser russo, é um dos melhores que já usei.
- - Se registre primeiro [clicando aqui](https://rutracker.org/forum/index.php)
+     - Não se intimide por ser russo, é um dos melhores que já usei.
+     - Se registre primeiro [clicando aqui](https://rutracker.org/forum/index.php)
 ===
 
 === Download direto (DDL)
