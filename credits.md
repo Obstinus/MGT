@@ -1,6 +1,6 @@
 ---
 label: Créditos
-description: Obrigado ao Duckling por criar a Wotaku.
+description: Obrigado ao Duckling e ao Champagne por criar a Wotaku e a Champagne Wiki, respectivamente.
 order: -100
 icon: ":sparkling_heart:"
 ---

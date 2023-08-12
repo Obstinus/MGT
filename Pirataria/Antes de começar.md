@@ -1,6 +1,6 @@
 ---
 label: Antes de começar
-order: 4
+order: 400
 ---
 
 Melhore sua experiência na web e torne-a livre de anúncios, mais privada e simplificada.
