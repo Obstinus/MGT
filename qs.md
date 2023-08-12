@@ -1,6 +1,6 @@
 ---
 order: 1200
-label: Comece aqui
+label: Começo rápido
 icon: ":zap:"
 ---
 
