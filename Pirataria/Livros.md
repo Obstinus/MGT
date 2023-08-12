@@ -9,6 +9,8 @@ icon: ":book:"
 - [PDF Drive](https://www.pdfdrive.com/)
 - [Mobilism eBooks Forum](https://forum.mobilism.org/viewforum.php?f=106)
 - [Rave Book Search](https://ravebooksearch.com/)
+- [Project Gutenberg](https://www.gutenberg.org/)
+- [PDF Room](https://pdfroom.com/)
 
 === Como acessar a Z-Library
 - [Z-Library](https://singlelogin.re/)
@@ -18,7 +20,9 @@ icon: ":book:"
 
 ## Audiobooks
 
+- [AudioAZ](https://audioaz.com/)
 - [AudioBookBay](http://audiobookbay.se/)
+    - Para baixar sem possuir uma conta, copie a hash e cole no seu client. Por exemplo: `magnet:?xt=urn:btih:HASHAQUI`
 - [TokyBook](https://tokybook.com/)
 - [LibRivox](https://librivox.org/)
 - [AudioBook Search Engine](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)
