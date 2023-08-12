@@ -15,13 +15,13 @@ Use esses sites para ver seus filmes, séries e documentários prediletos.
 - [Yes! Movies](https://yesmovies.ag/)
 - [HD Movie Box](https://hdmoviebox.net/)
 +++ Documentários
-[IHaveNoTV](https://ihavenotv.com/)
-[DocuMania](https://www.documentarymania.com/)
-[Doc+](https://www.docplus.com/)
-[WorkLizard](https://worklizard.com/groups/documentaries/)
-[WatchDocumentaries](https://watchdocumentaries.com/)
-[DocumentaryTube](https://www.documentarytube.com/)
-[TopDocumentaryFilms](https://topdocumentaryfilms.com/)
+- [IHaveNoTV](https://ihavenotv.com/)
+- [DocuMania](https://www.documentarymania.com/)
+- [Doc+](https://www.docplus.com/)
+- [WorkLizard](https://worklizard.com/groups/documentaries/)
+- [WatchDocumentaries](https://watchdocumentaries.com/)
+- [DocumentaryTube](https://www.documentarytube.com/)
+- [TopDocumentaryFilms](https://topdocumentaryfilms.com/)
 +++
 
 # Downloads
