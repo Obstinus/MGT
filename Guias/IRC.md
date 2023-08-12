@@ -14,7 +14,7 @@ author:
 
 
 # Primeiros passos
-1. Instale um [**IRC Client**] (#irc-client) em seu dispositivo.
+1. Instale um [**IRC Client**](#irc-client) em seu dispositivo.
 2. Acesse uma [**XDCC Packlists**](#xdcc-packlists) e pesquise seu conteúdo
 3. Clique no resultado da pesquisa para ver a mensagem de comando 
 !!!info
