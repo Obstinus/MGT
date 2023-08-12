@@ -1,6 +1,6 @@
 ---
 label: Streaming em geral
-order: 106
+order: 2
 ---
 
 Use esses sites para ver seus filmes, séries e documentários prediletos.
