@@ -1,175 +1,148 @@
 ---
-label: General
+label: Geral
 order: 105
 ---
 
 ![](/static/thumb/glossary.png)
 
-# Wotaku Glossary
-Want to increase your otaku knowledge? Look for no further! Presenting the Glossary section.
+# Glossário
+Lista de termos para otakus fedidos
 
 ## Region
 
-| Country   | Comics   | Animation { class="compact" } |
+| País   | Comics   | Animation { class="compact" } |
 | :------:  | :------: | :------: |
-| Japan     | Manga    | Anime    |
-| Korea     | Manhwa   | Aeni     |
+| Japão     | Manga    | Anime    |
+| Coréia     | Manhwa   | Aeni     |
 | China   | Manhua   | Donghua  |
 
 
-## Demography
+## Dados demográficos
 
-| Genre     | Target audience { class="compact" } |
+| Genre     | Público-alvo { class="compact" } |
 | :------:  | :------: |
-| Kodomo    | Kids (under 10)    |
-| Shounen   | Boys (12-18)     |
-| Shoujo    | Girls (12-18)  |
-| Seinen    | Men (19-40+)  |
-| Shoujo    | Women (19-40+)  |
+| Kodomo    | Crianças (under 10)    |
+| Shounen   | Garotos (12-18)     |
+| Shoujo    | Garotas (12-18)  |
+| Seinen    | Homens (19-40+)  |
+| Shoujo    | Mulheres (19-40+)  |
 
-> Demography refers to the target audience for a piece of content. Studios and publishers need to market their content towards that specific audience, but it does not mean that only one demography will enjoy the show. Additionally, many anime/manga incorporate elements that appeal to various demographics.
+> A demografia refere-se ao público-alvo de um conteúdo. Os estúdios e as editoras precisam comercializar seu conteúdo para esse público específico, mas isso não significa que apenas um grupo demográfico gostará do programa. Além disso, muitos animes/mangás incorporam elementos que agradam a vários grupos demográficos.
 ___
 
-## Genre
+## Gêneros
 
 #### Ecchi
-Anime or manga with lewd scenes but is not necessarily explicit or pornographic. Example: [Highschool DxD](https://anilist.co/anime/11617/High-School-DxD/)
+Anime ou mangá com cenas eróticas, mas não **necessariamente** explícitas ou pornográficas. Exemplo: [Highschool DxD](https://anilist.co/anime/11617/High-School-DxD/)
 
 #### Isekai
-Type of story where MC is transported to another world. Example: [Mushoku Tensei](https://anilist.co/anime/108465/Mushoku-Tensei-Jobless-Reincarnation/)
+Tipo de história em que o protagonista é transportado para outro mundo. Exemplo: [Mushoku Tensei](https://anilist.co/anime/108465/Mushoku-Tensei-Jobless-Reincarnation/)
 
 #### Mahou Shoujo
-Literally 'Magical Girl', it's a subgenre of fantasy centered around young girls who possess magical abilities, which they typically use through an ideal alter ego into which they can transform. Example: [Sailor Moon](https://anilist.co/anime/530/Sailor-Moon/)
+Literalmente "Garota Mágica", é um subgênero de fantasia centrado em garotas jovens que possuem habilidades mágicas, que elas normalmente usam por meio de um alter ego ideal no qual podem se transformar. Exemplo: [Sailor Moon](https://anilist.co/anime/530/Sailor-Moon/)
 
 #### Mecha
-Abbreviation for 'Mechanical', these shows heavily feature or focus on mechanical innovation. Robots, cyborgs, androids, and space stations, for example, all fall under the wide umbrella of mecha; however, robots are usually the primary focus. Example: [Neon Genesis Evangelion](https://anilist.co/anime/30/Shin-Seiki-Evangelion)
+Abreviação de "Mechanical" (Mecânico), essas obras apresentam ou se concentram fortemente na inovação mecânica. Robôs, ciborgues, andróides e estações espaciais, por exemplo, estão todos sob o amplo guarda-chuva de mecha; no entanto, os robôs geralmente são o foco principal. Exemplo: [Neon Genesis Evangelion](https://anilist.co/anime/30/Shin-Seiki-Evangelion)
 
 #### Shoujo-ai
-Anime and manga that explore emotional, but largely platonic, homoerotic relationships between women. Stories with explicit content of such type, are generally referred to as 'Yuri' or 'GL'. Note that this distinction is only used by western audiences.
+Anime e mangá que exploram relacionamentos homoeróticos emocionais, mas em grande parte platônicos, entre mulheres. As histórias com conteúdo explícito desse tipo são geralmente chamadas de "Yuri" ou "GL. Note that this distinction is only used by western audiences.
 
 #### Shounen-ai
-Anime and manga that explore emotional, but largely platonic, homoerotic relationships between men. Stories with explicit content of such type, are generally referred to as 'Yaoi' or 'BL'. Note that this distinction is only used by western audiences.
+Anime e mangá que exploram relacionamentos homoeróticos emocionais, mas em grande parte platônicos, entre homens. As histórias com conteúdo explícito desse tipo são geralmente chamadas de "Yaoi" ou "BL". Observe que essa distinção é usada apenas pelo público ocidental.
 
 #### Slice of Life
-Shows that mostly focuses on the day-to-day lives of fictional characters. They are usually chill experiences focusing on relatability and feel-good vibes.Example: [Nichijou](https://anilist.co/anime/10165/Nichijou)
+Programas que se concentram principalmente na vida cotidiana de personagens fictícios. Em geral, são experiências descontraídas que se concentram na capacidade de se relacionamento dos personagens. Exemplo: [Nichijou](https://anilist.co/anime/10165/Nichijou)
 
 #### Wuxia
-Literally means “Martial Heroes”. Fictional stories about regular humans who can achieve supernatural fighting ability through Chinese martial arts training and internal energy cultivation. Themes of chivalry, tragedy, revenge & romance are common.
+Literalmente significa "heróis marciais". Histórias fictícias sobre seres humanos comuns que podem alcançar habilidades de luta sobrenaturais por meio de treinamento em artes marciais chinesas e cultivo de energia interna. Temas de cavalheirismo, tragédia, vingança e romance são comuns.
 
 ___
 
-## Terms
+## Termos
 
-| Terms     | Meaning { class="compact" } |
+| Termo   | Significado { class="compact" } |
 | ------  | ------ |
-| Ahoge    | Literally 'Stupid Hair'. refers to a strand of hair that springs upwards from the character's head.  Example: [Izumi Konata](https://anidb.net/character/2999)  |
-|  Baka  |   Stupid.  |
-|  Chibi  |  Literally "Small/Short". In real life it can be insulting but in anime it's used for cutesy style. Example: [Doma Umaru](https://anidb.net/character/75170)  |
-|  Chuunibyou  |   *It's not possible to make a justified explanation without oversimplifying things. So, read [this post](https://rentry.org/whatisChuunibyou) instead.*  |
-| Doujinka/Doujinshika | Doujinka is the creator of doujinshi and is a member of a doujin circle. |
-| Doujinshi | Doujinshi refers to self-published works, which can be original creations or fan fictions, such as manga, novels, artworks, music, and games. |
-| Ecchi | Lewd. |
-|  Fujoshi  | 'Rotten Girl'. Refers to a girl that fantasizes about guys being in a relationship with other guys, specially shipping male characters with other male characters in manga and anime.   |
-|  Gyaru  |  English slang equivalent of "Gal". It refers to a subculture and fashion style in Japan where girls wear dramatic tan makeup, sport big hair, and embrace 2000s fashion trends. Example: [Kitagawa Marin](https://anidb.net/character/120646)   |
-| Hentai | Pervert. |
-|  Hikikomori  |  The people who don't go out of their home. The phenomenon can also be termed as Hikikomori. You can watch [this video](https://www.youtube.com/watch?v=tnFVot15KcI) to get a clearer idea.  |
-| Idol | Idols are live entertainers who are expected to be 'Seiso' or pure, meaning they do not engage in romantic relationships. Their primary goal is to entertain their fans. Idol culture is particularly popular in Asia, especially Japan and Korea. Idols are usually local, but occasionally, they can be foreigners too. However, the idol culture can be dark and questionable despite being portrayed as glamorous in anime and manga. Idols group can be girls or boys group. Example: [AKB48](https://www.akb48.co.jp/). Nowadays, vtuber groups such as [Hololive](https://www.youtube.com/@hololive) are managed as an idol group. |
-|  JK  |  "Joshi Kousei". Meaning high-school girl.   |
-|  Kaiju  |   Giant monsters. It can be mentioned as a genre too. |
-|  Kawaii  |   Adorable. |
-|  Kouhai  |   Junior. Can be in a workpace or school.  |
-|  Loli  |   Young or young-looking girl in anime and manga.  |
-|  Moe  |  The feeling of emotional attraction when you see something cute in manga, anime or other weeb stuff. These are SFW and can be any gender.  |
-|  Nakama  |  Literally "Comrade". Popularized by the series 'One Piece', it is nowadays used for a group of people who are closer than family.   |
-| Oshi | One's favourite idol. The fan himself is known as **gachikoi**. It's generally used when the affection is on a serious level.|
-| Seiso | *"Seiso" (清楚) refers to a particular aesthetic of purity and cleanliness that is often emphasized in the presentation of female idols. This can involve elements such as modest clothing, subtle makeup, and a generally wholesome image.* |
-|  Senpai/Sempai  |   Senior. Can be in a workplace or school.  |
-|  Sensei  |  Generally Teacher. But this can also be used to address someone  who is a respected professional or very senior in the position.   |
-| Shikishi | It is a high-quality art board mainly used for calligraphy and painting. Due to its exceptional quality, it is often utilized for collecting autographs featuring both simple and highly detailed artwork. Additionally, it is sometimes used as a promotional material for the show. [Examples of shikishi](https://www.reddit.com/r/Shikishi/). |
-|  Shota  |  Young or young-looking boy in anime and manga.  |
-|  Tokusatsu  |   Literally "Special effects". These term can be applied to movies and tv shows with superheroes with a reconizable style of special effects. [Examples of Tokusatsu](https://www.youtube.com/watch?v=bBsDwQ1by_o) |
-|  Trap  |  A word used in anime community to refer to a person who looks the opposite gender. Most commonly used for male characters who look female. Example: [Urushibara Ruka from Steins; Gate](https://anidb.net/character/23270)   |
-|  Yamato Nadeshiko  |  Japanese term used to describe an ideal Japanese woman. They are the epitome of pure, feminine beauty.   |
-|  Zettai Ryouiki  |   Translates to 'Absolute Territory'. Refers to the space of bare thighs between the skirt and above knee-length socks.  |
+| Ahoge    | Literalmente "Stupid Hair" (cabelo estúpido), refere-se a um fio de cabelo que sai da cabeça do personagem para cima.  Exemplo: [Izumi Konata](https://anidb.net/character/2999)  |
+|  Baka  |   Idiota; estúpido.  |
+|  Chibi  |  Literalmente "pequeno/curto". Na vida real, pode ser um insulto, mas no anime é usado em um estilo fofo. Exemplo: [Doma Umaru](https://anidb.net/character/75170)  |
+|  Chuunibyou  |   *Não é possível fazer uma explicação justificada sem simplificar demais as coisas. Portanto, leia [esta postagem](https://rentry.org/whatisChuunibyou) ao invés disso.*  |
+| Ecchi | Pervertido. |
+|  Fujoshi  | "Garota podre". Refere-se a uma garota que fantasia com rapazes que estão em um relacionamento com outros rapazes, especialmente com personagens masculinos que estão em um relacionamento com outros personagens masculinos em mangás e animes.   |
+|  Gyaru  |  Refere-se a uma subcultura e estilo de moda no Japão em que as meninas usam maquiagem bronzeada dramática, cabelos grandes e adotam as tendências da moda dos anos 2000. Example: [Kitagawa Marin](https://anidb.net/character/120646)   |
+| Hentai | Pervertido, assim como Ecchi. |
+|  Hikikomori  |  As pessoas que não saem de casa. O fenômeno também pode ser chamado de Hikikomori. Você pode assistir [este vídeo](https://www.youtube.com/watch?v=tnFVot15KcI) para ter uma ideia mais clara.  |
+| Idol | Os idols são artistas que devem ser "Seiso" ou puros, o que significa que não se envolvem em relacionamentos românticos. Seu principal objetivo é entreter seus fãs. A cultura dos ídolos é particularmente popular na Ásia, especialmente no Japão e na Coreia. Os idols geralmente são locais, mas, ocasionalmente, também podem ser estrangeiros. Entretanto, a cultura de idols pode ser sombria e questionável, apesar de ser retratada como glamourosa nos animes e mangás, com exceção de Perfect Blue e Oshi no Ko. Os grupos de idols podem ser de meninas ou meninos. Exemplo: [AKB48] (https://www.akb48.co.jp/). Atualmente, grupos de vtubers, como [Hololive](https://www.youtube.com/@hololive), são gerenciados como um grupo de ídolos. |
+|  JK  |  "Joshi Kousei". Significa 'high-school girl'.   |
+|  Kaiju  |   Monstros gigantes. Também pode ser mencionado como um gênero. |
+|  Kawaii  |   Fofo; adorável. |
+|  Kouhai  |   Junior.  |
+|  Loli  |   Garota jovem ou de aparência jovem em anime e mangá.  |
+|  Moe  |  O sentimento de atração emocional quando você vê algo bonito em mangá, anime ou outras coisas da web. Esses são SFW e podem ser de qualquer gênero.  |
+|  Nakama  |  Literalmente "camarada/companheiro". Popularizado pela série "One Piece", atualmente é usado para um grupo de pessoas que são mais próximas do que a família.   |
+| Oshi | O ídolo favorito de alguém. O próprio fã é conhecido como **gachikoi**. Geralmente é usado quando a afeição é séria.|
+| Seiso | *"Seiso" (清楚) refere-se a uma estética específica de pureza e limpeza que é frequentemente enfatizada na apresentação de idols femininas. Isso pode envolver elementos como roupas modestas, maquiagem sutil e uma imagem geralmente saudável.* |
+|  Senpai/Sempai  |   Senior.  |
+|  Sensei  |  Em geral, professor. Mas isso também pode ser usado para se dirigir a alguém que é um profissional respeitado ou muito sênior no cargo.   |
+| Shikishi | É uma artboard de alta qualidade usada principalmente para caligrafia e pintura. Devido à sua qualidade excepcional, é frequentemente utilizada para coletar autógrafos com obras de arte simples e altamente detalhadas. Além disso, às vezes é usado como material promocional para o show. [Exemplos de shikishi](https://www.reddit.com/r/Shikishi/). |
+|  Shota  |  Menino jovem ou de aparência jovem em anime e mangá.  |
+|  Tokusatsu  |   Literalmente, "efeitos especiais". Esse termo pode ser aplicado a filmes e programas de TV com super-heróis com um estilo reconhecível de efeitos especiais. [Exemplos de Tokusatsu](https://www.youtube.com/watch?v=bBsDwQ1by_o) |
+|  Trap  |  Uma palavra usada na comunidade de anime para se referir a uma pessoa que parece do gênero oposto. Mais comumente usada para personagens masculinos que parecem femininos. Exemplo: [Urushibara Ruka de Steins; Gate](https://anidb.net/character/23270)   |
+|  Yamato Nadeshiko  |  Termo japonês usado para descrever uma mulher japonesa ideal. Elas são o epítome da beleza pura e feminina.   |
 
 ___
 ## Common Honorifics 
 
-| Terms     | Meaning { class="compact" } |
+| Termos   | Significado { class="compact" } |
 | ------  | ------ |
-|  -san  |   It is used after a person's name to show respect. It is equivalent to 'Mr.', 'Mrs.', or 'Miss' in English.   |
-|  -kun  |   Used most often when referring to boys, this indicates affection or familiarity. Although it may occasionally be used by older men within their social circle, it can also be employed by anyone in reference to someone of lower status.   |
-|  -chan  |   An affectionate honorific indicating familiarity used mostly in reference to girls; also used in reference to cute persons or animals of either gender.   |
-|  -(o)nii-chan  |   A familiar, somewhat childish way to refer to one’s older brother.   |
-|  -(o)nee-chan  |   A familiar, somewhat childish way to refer to one's older sister.   |
+|  -san  |   É usado após o nome de uma pessoa para demonstrar respeito. É equivalente a "Mr.", "Mrs." ou "Miss" em inglês.   |
+|  -kun  |   Usado com mais frequência quando se refere a meninos, indica afeição ou familiaridade. Embora possa ser usado ocasionalmente por homens mais velhos em seu círculo social, também pode ser empregado por qualquer pessoa em referência a alguém de status inferior.   |
+|  -chan  |   Um título honorífico carinhoso que indica familiaridade, usado principalmente em referência a meninas; também usado em referência a pessoas ou animais fofos de ambos os sexos.   |
+|  -(o)nii-chan  |   Uma forma familiar e um tanto infantil de se referir ao irmão mais velho.   |
+|  -(o)nee-chan  |   Uma forma familiar e um tanto infantil de se referir à irmã mais velha.   |
 |  -senpai  |  It is used to address upperclassmen or more experienced coworkers.    |
-|  -sensei  |  A respectful term for teachers, artists, or high-level professionals.    |
-|  No honorific  |   Indicates familiarity or closeness; if used without permission or reason, addressing someone in this manner would constitute an insult.   |
+|  -sensei  |  Um termo respeitoso para professores, artistas ou profissionais de alto nível.  |
+|  No honorific  |   Indica familiaridade ou proximidade; se usado sem permissão ou razão, dirigir-se a alguém dessa forma constituiria um insulto.   |
 
-> If you want to mention a family member in formal way, here is the [guide](https://rentry.org/jpfamily).
-
-___
-## Doujin Basics
-| Terms     | Meaning { class="compact" } |
-| ------  | ------ |
-| Doujinshi | Doujinshi refers to **self-published works**, which can be **original creations or fan fictions**, such as manga, novels, artworks, music, and games. |
-| Doujinka/Doujinshika | Doujinka is **the creator** of doujinshi and is a member of a doujin circle. |
-| Doujin | 'Doujin' refers to **a group** of people who share a common interest. |
-| Circle | The term 'circle' refers to the group that **releases doujinshi**, the circle may consist a group of people or a single individual. |
+> Se você quiser mencionar um membro da família de maneira formal, aqui está o [guia](https://rentry.org/jpfamily).
 
 ___
-## Kemonomimi
+## Sufixos —dere
 
-"Kemonomimi" means "animal ears." They are human-like characters who possess animal features such as ears, tails etc. Example: [Tokai Teiou from Uma Musume](https://anidb.net/character/94007)
-
-| Types    |   Meaning { class="compact" } |
-| :---: | :---: |
-|  Inumimi   | Dog ears |
-|  Kitsunemimi | Fox ears |
-|  Nekomimi  | Cat ears |
-|  Nezumimi  | Mouse  ears |
-|  Umamimi   | Horse ears |
-|  Usagimimi   | Rabbit ears |
-|  Ryumimi | Dragon ears |
-
-___
-## Dere Types
-
-Words used to describe anime girls based on their personality.
+Palavras usadas para descrever garotas de anime com base em sua personalidade.
 
 ==- Bakadere
-As clear by the word "baka", these character(s) are literally idiots, clumsy, and do things that are questionable, but due to their child-like innocence and optimism, they are kind-hearted to other characters, even though they may not realize that, and are very annoying to a protagonist. Example: [Hanabatake Yoshiko from Aho-Girl](https://anidb.net/character/89068)
+Como a palavra "baka" deixa claro, esses personagens são literalmente idiotas, desajeitados e fazem coisas questionáveis, mas, devido à sua inocência e otimismo infantis, são bondosos com outros personagens, mesmo que não percebam isso, e são muito irritantes para um protagonista. Exemplo: [Hanabatake Yoshiko de Aho-Girl](https://anidb.net/character/89068)
 
 ![Hanabatake Yoshiko](/static/glossary/General/bakadare.png)
 
 ==- Byoukidere
-'Byouki' mean illness, so these character(s) usually has some kind of physical disease, often fatal. They are mostly confined to a wheelchair or a hospital room. Generally they are kind, caring and sweet in nature. Example: [Miyazono Kaori from Shigatsu wa Kimi no Uso](https://anidb.net/character/65811)
+"Byouki" significa doença, portanto, esses personagens geralmente têm algum tipo de doença física, muitas vezes fatal. Na maioria das vezes, ficam confinados a uma cadeira de rodas ou a um quarto de hospital. Em geral, são gentis, atenciosos e doces por natureza. Exemplo: [Miyazono Kaori de Shigatsu wa Kimi no Uso](https://anidb.net/character/65811)
 
 ![Miyazono Kaori](/static/glossary/General/Byoukidere.png)
 
 ==- Dandere
-Introverted character(s) that are shy, quiet, and asocial, they don't like to get involved in conflicts, but their affection is shown when they are alone or with a small group of people that they love and care. Example: [Komi Shouko from Komi-san wa, Komyushou Desu.](https://anidb.net/character/117224)
+Personagem(ns) introvertido(s) que é(são) tímido(s), quieto(s) e associal(is), não gosta(m) de se envolver em conflitos, mas sua afeição é demonstrada quando está(ão) sozinho(s) ou com um pequeno grupo de pessoas que ama(m) e se importa(m). Exemplo: [Komi Shouko de Komi-san wa, Komyushou Desu.](https://anidb.net/character/117224)
 
 ![Komi Shouko](/static/glossary/General/Dandere.png)
 
 
 ==- Deredere
-'Dere' mean love, so a deredere character is all about being lovey-dovey. These character(s) are sweet, kind and very affectionate towards the person they love, while also being generally friendly towards other characters. Example: [Miia from Monster Musume](https://anidb.net/character/73747)
+"Dere" significa amor, portanto, um personagem deredere tem tudo a ver com ser amoroso. Esse(s) personagem(ns) é(são) doce(s), gentil(is) e muito carinhoso(s) com a pessoa que ama, além de ser(em) geralmente amigável(eis) com outros personagens. Exemplo: [Miia de Monster Musume](https://anidb.net/character/73747)
 
 ![Miia](/static/glossary/General/Deredere.png)
 
-| Terms     | Meaning { class="compact" } |
+| Termo   | Significado { class="compact" } |
 | ------  | ------ |
-|  Oujodere |  A lady-like (as denoted with "oujo") version of deredere, that is more mature, calm and collected, typically they have a strict-nature on the outside, but are sweet on the inside. Prefer to share less about their crush, but is always pleased to help their crush and others, even in tough times. Example: [Hanekawa Tsubasa from Bakemonogatari](https://anidb.net/character/8965) |
-|  Megadere | Think of it like mega-deredere. An extreme version of deredere, that has an abnormal-obsession with their crush and are not afraid to show it to their crush. Example: [Tachibana Marika from Nisekoi](https://anidb.net/character/60162)  |
+|  Oujodere |  Uma versão feminina (conforme denotado com "oujo") do deredere, que é mais madura, calma e controlada, normalmente tem uma natureza rígida por fora, mas é doce por dentro. Prefere falar menos sobre a pessoa amada, mas sempre fica feliz em ajudar a pessoa amada e outras pessoas, mesmo em momentos difíceis. Exemplo: [Hanekawa Tsubasa de Bakemonogatari](https://anidb.net/character/8965) |
+|  Megadere | Pense nisso como um mega-deredere. Uma versão extrema do deredere, que tem uma obsessão anormal pela pessoa amada e não tem medo de mostrar isso a ela. Exemplo: [Tachibana Marika de Nisekoi](https://anidb.net/character/60162)  |
 
 ==- Goudere
-Over-achieving character(s) that are loyal to their masters, they view their masters as their savior and grace, so they do anything to their ability to keep them happy, and can also involve other characters as a means to contribute to their happiness, even though their master doesn't ask for that. Example: [Tooru from Miss Kobayashi's Dragon Maid](https://anidb.net/character/85812)
+Personagem(ns) superexigente(s) que é(são) leal(is) a seus mestres, eles vêem seus mestres como seu salvador e sua graça, portanto, fazem tudo o que estiver ao seu alcance para mantê-los felizes e também podem envolver outros personagens como forma de contribuir para sua felicidade, mesmo que seu mestre não peça isso. Exemplo: [Tooru de Miss Kobayashi's Dragon Maid](https://anidb.net/character/85812)
 
 ![Tooru](/static/glossary/General/Goudere.png)
 
 ==- Hajidere
-Character(s) that isn't nervous and embarrassed with others, but on the contrary are when they are around their crush. Example: [Boa Hancok from One Piece](https://anidb.net/character/6071)
+Personagem(ns) que não fica(m) nervoso(s) e constrangido(s) com os outros, mas, ao contrário, fica(m) quando está(ão) perto de sua paixão. Exemplo: [Boa Hancock de One Piece](https://anidb.net/character/6071)
 
 ![Boa Hancock](/static/glossary/General/Hajidere.png)
 
@@ -177,121 +150,94 @@ Character(s) that isn't nervous and embarrassed with others, but on the contrary
 
 | Terms     | Meaning { class="compact" } |
 | ------  | ------ |
-| Himedere | **Hime** means princess. It's a character who wishes to be treated like a princess or a queen by the person she loves, even if she is not actual royalty. Example: [Nakiri Erina from Food Wars](https://anidb.net/character/71284) |
-| Oujidere | **Ouji** means prince. It's the male counterpart. Example: [Lelouch Lamperouge from Code Geass](https://anidb.net/character/103) |
-| Kamidere | **Kami** means god. It's the same concept but taken to the extreme. Example: [Kiryuuin Satsuki from Kill la Kill](https://anidb.net/character/56259) |
+| Himedere | **Hime** significa princesa. É uma personagem que deseja ser tratada como uma princesa ou uma rainha pela pessoa que ama, mesmo que não seja da realeza de fato. Exemplo: [Nakiri Erina de Food Wars](https://anidb.net/character/71284) |
+| Oujidere | ***Ouji** significa príncipe. É a contraparte masculina. Exemplo: [Lelouch Lamperouge de Code Geass](https://anidb.net/character/103) |
+| Kamidere | **Kami** significa deus. É o mesmo conceito, mas levado ao extremo. Exemplo: [Kiryuuin Satsuki de Kill la Kill](https://anidb.net/character/56259) |
 
 ==- Hinedere
-A Character(s) who has cynical world views, is cold-hearted, and are is highly arrogant. They will get easily annoyed by other people, including their love interest at first. Example:[Annie Leonhart from Attack on Titan](https://anidb.net/character/51168)
+Personagem(ns) que tem uma visão cínica do mundo, é frio e muito arrogante. Eles se irritam facilmente com outras pessoas, inclusive com seu interesse amoroso no início. Exemplo: [Annie Leonhart de Attack on Titan](https://anidb.net/character/51168)
 
-![Annie Leonhart](/static/glossary/General/Hinedere.png)
+Annie Leonhart](/static/glossary/General/Hinedere.png)
 
 ==- Hiyakasudere
-'Hiyakasu' means 'to tease'. They are character who likes to tease others and sometimes flirt with those they like. They will act really seductive in front of other people and will tease those that get embarrassed easily by their actions and words, possibly the love interest. Example: [Holo from Spice & Wolf](https://anidb.net/character/29)
+"Hiyakasu" significa "provocar". São personagens que gostam de provocar os outros e, às vezes, flertam com quem gostam. Eles agem de forma realmente sedutora na frente de outras pessoas e provocam aqueles que se sentem envergonhados facilmente por suas ações e palavras, possivelmente o interesse amoroso. Exemplo: [Holo de Spice & Wolf](https://anidb.net/character/29)
 
 ![Holo](/static/glossary/General/Hiyakasudere.png)
 
 ==- Kanedere
-'Kane' means money. They are the anime equivalent of gold diggers. They often just care about how much money a person has, and nothing else. However, if they truly love someone the habit can be broken. Example: [Eva Heinemann from Monster](https://anidb.net/character/4909)
+"Kane" significa dinheiro. Eles são o equivalente em anime aos garimpeiros. Geralmente só se preocupam com a quantidade de dinheiro que uma pessoa tem e nada mais. Entretanto, se eles realmente amam alguém, esse hábito pode ser quebrado. Exemplo: [Eva Heinemann de Monster](https://anidb.net/character/4909)
 ![Eva Heinemann](/static/glossary/General/Kanedere.png)
 
 ==- Mayadere
-A character who used to be an antagonist or villain of the series but switched sides after falling in love or becoming fond of another character. Example: [Esdeath from Akame ga Kill!](https://anidb.net/character/67551)
+Um personagem que costumava ser um antagonista ou vilão da série, mas mudou de lado depois de se apaixonar ou se afeiçoar a outro personagem. Exemplo: [Esdeath de Akame ga Kill!](https://anidb.net/character/67551)
 
 ![Esdeath](/static/glossary/General/Mayadere.png)
 
 ==- Nemuidere
-Character(s) that are sleepy - they sleep with or without an intent to do so, they will also try to get as much sleep as they can. Accompanied by those qualities they may also be lazy (which in this case they'd be both a nemuidere and darudere), so they need motivation from others to do something, but they are usually very smart and artsy when they are too much of a sleepyhead. Example: [Princess Syalis from Sleepy Princess in the Demon Castle](https://anidb.net/character/108007)
+Personagem(ns) sonolento(s) - dorme(m) com ou sem intenção de fazê-lo, e também tentará(ão) dormir o máximo que puder(em). Acompanhado dessas qualidades, ele também pode ser preguiçoso (o que, nesse caso, seria tanto um nemuidere quanto um darudere), de modo que precisa da motivação dos outros para fazer alguma coisa, mas geralmente é muito inteligente e artístico quando está muito sonolento. Exemplo: [Princesa Syalis de Sleepy Princess in the Demon Castle](https://anidb.net/character/108007)
 
 ![Princess Syalis](/static/glossary/General/Nemuidere.png)
 
-| Terms     | Meaning { class="compact" } |
-| ------  | ------ |
-|  Darudere | Similar to Nemuidere, but the difference is that where 'Nemui' means sleepy, 'Daru' means sluggish, they are very lazy and sluggish and unlike Nemuidere, they will only do things for people they care for and complain about it through the process of doing something, otherwise they are just dull and lazy to others. Example: [Doma Umaru from Himouto! Umaru-chan](https://anidb.net/character/75170) |
+| Termos Significado { class="compact" } |
+| ------ | ------ |
+| Darudere | Semelhante ao Nemuidere, mas a diferença é que onde "Nemui" significa sonolento, "Daru" significa preguiçoso, eles são muito preguiçosos e preguiçosos e, ao contrário do Nemuidere, só fazem coisas para as pessoas de quem gostam e reclamam durante o processo de fazer algo, caso contrário, são apenas chatos e preguiçosos para os outros. Exemplo: [Doma Umaru de Himouto! Umaru-chan](https://anidb.net/character/75170)
 
-> tl;dr: Nemui are sleepy characters, where as daru is lazy.
+> tl;dr: Nemui são personagens sonolentos, enquanto daru é preguiçoso.
 
 ==- Nyandere 
-Character(s) that are cat-loving fanatics, it could come in several variations:
-    - They are a nekomimi themselves and just have a lot dere for cats
-    - A regular human that is normal or show no emotion to others, but show their nyandere side when around cats, portrayed through showing imaginary cat ears and paws
+Personagem(ns) fanático(s) por gatos, que pode(m) ter diversas variações:
+    - Eles próprios são nekomimi e simplesmente têm muito carinho por gatos
+    - Um humano comum que é normal ou não demonstra nenhuma emoção para os outros, mas mostra seu lado nyandere quando está perto de gatos, retratado por meio de orelhas e patas de gatos imaginários
 
-Example: [Mizuno Kaede from Nyan Koi!](https://anidb.net/character/10841)
+Exemplo: [Mizuno Kaede de Nyan Koi!](https://anidb.net/character/10841)
+
 ![Mizuno Kaede](/static/glossary/General/nyandere.png)
 
 ==- Sadodere
-Character(s) that indulge in the manipulation of their crush's feelings and humiliating them. They are cold, violent and merciless to others, hence making them difficult to connect with others. The are also sadistic due to finding job joy in inflicting pain to their crush. Example: [Nagatoro from Don`t Toy with Me, Miss Nagatoro](https://anidb.net/anime/15622)
+Personagem(ns) que se entrega(m) à manipulação dos sentimentos de sua paixão e à humilhação dela(e). São frios, violentos e impiedosos com os outros, o que dificulta o contato com os outros. Também são sádicos porque encontram alegria no trabalho ao infligir dor à pessoa amada. Exemplo: [Nagatoro de Don`t Toy with Me, Miss Nagatoro](https://anidb.net/anime/15622)
 
 ![Nagatoro](/static/glossary/General/Sadodere.png)
 
-| Terms     | Meaning { class="compact" } |
-| ------  | ------ |
-|  Masodere | Character(s) that enjoy humiliating themselves, they compliment sadodere, so when combined together they are called Sadomasodere. Example: [Darkness from Konosuba](https://anidb.net/character/78021) |
+| Termos Significado { class="compact" } |
+| ------ | ------ |
+| Masodere | Personagem(ns) que gosta(m) de se humilhar, eles complementam o sadodere, portanto, quando combinados, são chamados de Sadomasodere. Exemplo: [Darkness from Konosuba](https://anidb.net/character/78021) |
 
 ==- Kekkondere
 
-Character(s) type that is obsessed with getting married right away, even if it's someone they just met, in other words love at first sight, Their insistence on getting married comes from wanting to spent the rest of their life with their love interest, it could be get to the point where it becomes unhealthy, where they may turn into yanderes! Example: [Fujinomiya Neko from Masamune-kun no Revenge](https://anidb.net/character/85802)
+Tipo de personagem(ns) que é(são) obcecado(s) em se casar imediatamente, mesmo que seja alguém que acabou de conhecer, em outras palavras, amor à primeira vista. Sua insistência em se casar vem do desejo de passar o resto da vida com seu interesse amoroso, podendo chegar ao ponto de se tornar insalubre, onde eles podem se transformar em yanderes! Exemplo: [Fujinomiya Neko de Masamune-kun no Revenge](https://anidb.net/character/85802)
 ![Fujinomiya Neko](/static/glossary/General/Kekkondere.png)
 
 ==- Kuudere
 
-Character(s) who is always calm and collected, especially in the most stressful of situations. They never panic and usually analyze and think through things til' they solve the problem, its rare for them to show affection or emotion to others in varying situations, however they could be hiding how the actually feel deep down. Example: [Hishiro Chizuru from ReLife](https://anidb.net/character/79913)
+Personagem(ns) que está(ão) sempre calmo(s) e controlado(s), especialmente nas situações mais estressantes. Eles nunca entram em pânico e geralmente analisam e pensam sobre as coisas até resolverem o problema. É raro que demonstrem afeto ou emoção aos outros em situações variadas, mas podem estar escondendo o que realmente sentem no fundo. Exemplo: [Hishiro Chizuru de ReLife](https://anidb.net/character/79913)
 
 ![Hishiro Chizuru](/static/glossary/General/Kuudere.png)
 
-| Terms     | Meaning { class="compact" } |
-| ------  | ------ |
-| Shundere | Shundere is an extreme version kuudere version, where they are emotionless all the time due to sadness or depression. They choose to lock  themselves from others and fully hide their emotions more than the Kuudere . Example: [Kuroki Tomoko from Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!](https://anidb.net/character/56080) |
+| Termos | Significado { class="compact" } |
+| ------ | ------ |
+| Shundere | Shundere é uma versão extrema da versão kuudere, em que a pessoa fica sem emoções o tempo todo devido à tristeza ou depressão. Eles optam por se isolar dos outros e esconder totalmente suas emoções mais do que os Kuudere. Exemplo: [Kuroki Tomoko de Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!](https://anidb.net/character/56080)
 
 ==- Tsundere 
 
-Character(s) that show coldness and hostility on the outside, but have a heart of gold on the inside. Due do their prideful character, they tend to act mean to their love interest as a means to hide how they actually feel, because they don't want to hurt their pride, so they are not honest with themselves.
+Personagem(ns) que demonstra(m) frieza e hostilidade por fora, mas tem(m) um coração de ouro por dentro. Devido ao seu caráter orgulhoso, tendem a agir de forma mesquinha com o interesse amoroso como forma de esconder o que realmente sentem, pois não querem ferir seu orgulho e, portanto, não são honestos consigo mesmos.
 
+| Tipos | Significado { class="compact" } |
+| ------ | ------ |
+| Tipo A: TsunTsun | Rude por padrão. Somente alguém próximo será capaz de mostrar seu lado suave. Parece que não consegue controlar o temperamento e vai se irritar por qualquer motivo. Exemplo: [Taiga Aisaka, de Toradora!](https://anidb.net/character/1009)
+| Tipo B: DereDere | Doce por padrão. Seu lado Tsun aparece quando fica envergonhada. Sensação de constrangimento em relação a sentimentos e conversas sobre amor, superproteção em relação ao parceiro, o que pode resultar em um ataque se o interesse amoroso ou o relacionamento for ameaçado. Exemplo: [Makise Kurisu de Steins;Gate](https://anidb.net/character/23271)
 
-| Types     | Meaning { class="compact" } |
-| ------  | ------ |
-|  Type A: TsunTsun  | Harsh by default. Only someone close will be able to bring their soft side. Can't seem to control their temper and will lash out for any reason. Example: [Taiga Aisaka from Toradora!](https://anidb.net/character/1009) |
-|  Type B: DereDere  |   Sweet by default. Their Tsun side comes out when they get embarrassed. Feeling of awkwardness around feelings and convos about love, overprotective of their partner, this can result in a lash out if their love interest or their relationship is threatened. Example: [Makise Kurisu from Steins;Gate](https://anidb.net/character/23271) |
-
->There are several variations of the Tsundere types, which you can check out [here](https://the-dere-types.fandom.com/wiki/Tsundere#Variations_and_Similar_Japanese_Archetypes)
+>Existem diversas variações dos tipos de Tsundere, que você pode conferir [aqui](https://the-dere-types.fandom.com/wiki/Tsundere#Variations_and_Similar_Japanese_Archetypes)
 
 ==- Yandere
 
-Character(s) whose love and devotion is so strong that they become excessively obsessive and possessive. They are depicted as becoming crazy after falling in love, capable of doing any number of immoral things if it means being able to get closer with their love interest. Also, if they ever think they can't be with their love interest or that he is cheating on her, they'd rather kill him and then herself rather than letting him be with someone else. Example: [Yuno Gasai from Mirai Nikki](https://anidb.net/character/25306)
+Personagem(ns) cujo amor e devoção são tão fortes que se tornam excessivamente obsessivos e possessivos. Elas são retratadas como loucas depois de se apaixonarem, capazes de fazer qualquer número de coisas imorais se isso significar poder se aproximar de seu interesse amoroso. Além disso, se acharem que não podem ficar com seu interesse amoroso ou que ele a está traindo, elas preferem matá-lo e depois a si mesmas a deixá-lo ficar com outra pessoa. Exemplo: [Yuno Gasai de Mirai Nikki](https://anidb.net/character/25306)
 
 ![Yuno Gasai from Mirai Nikki](/static/glossary/General/yandere.png)
 
 ==- Yottadere
 
-Character(s) that can never stop having alcohol, they usually will always have alcohol with them, they usually are sober when they are with someone they love. They can also have different personality types, from someone serious and passionate - to someone wild and brute. Example: [Vanessa Enoteca
- from Black Clover](https://anidb.net/character/90830)
+Personagem(ns) que nunca consegue(m) parar de ingerir álcool, geralmente sempre terá(ão) álcool com ele(s), geralmente está(ão) sóbrio(s) quando está(ão) com alguém que ama. Eles também podem ter diferentes tipos de personalidade, desde alguém sério e apaixonado até alguém selvagem e bruto. Exemplo: [Vanessa Enoteca
+ da Black Clover](https://anidb.net/character/90830)
 
 ![Vanessa Enoteca](/static/glossary/General/Yottadere.png)
 ===
-___
-## NSFW
-
-#### Ahegao
-'O-Face' expression.
-![](/static/glossary/General/ahegao.jpg)
-
-#### Eromanga
-Also known as Hentai (Although Hentai means pervert, depending on the context it may have other meanings). Sexually-explicit manga, targeted toward men.
-
-#### Netorare
-Cuckoldry; where MC's love interest (or important person) is 'stolen' by another person. Often just written as 'NTR' online.
-
-| Types     | Meaning { class="compact" } |
-| ------  | ------ |
-|  Type A  |  Love Interest is willing and consensual from the beginning.   |
-|  Type B  |  Love Interest is forced in the beginning, but starts to enjoy it by the end.   |
-|  Type C  |  Love Interest is forced from start to finish.   |
-
-#### Netorase
-Cuckoldry; where MC enjoys / is willing to have the love interest get stolen by another person
-
-#### Netori
-Cuckoldry; where MC steals another characters love interest.
-
-#### Redikomi
-Eromanga equivalent; targeted at adult women.

@@ -1,30 +1,16 @@
 ---
 label: Misc-sites
 order: 900
-description: Various sites for info, guide, tracking and analysis.
+description: Sites para informações, guias, etc.
 icon: ":card_file_box:"
 ---
 
 ![](/static/thumb/ms.png)
 
 # Misc-sites
-Feeling adventurous? Want to discover the taste of Japanese culture? Welcome to the misc-sites page! Here you can find various communities, guides, and tools that strikes your fancy. Enjoy the exploration!
+Aqui você pode encontrar várias comunidades, guias e ferramentas que lhe interessar.
 ___
 
-![](/static/banner/booru.png)
-
-## Booru
-___
-- [Danbooru](https://danbooru.donmai.us/) [!badge variant="danger" size="xs" text="R+"]
-- [Danbooru SFW](https://safebooru.donmai.us/) [!badge variant="success" size="xs" text="E"]
-- [Gelbooru](https://gelbooru.com/) [!badge variant="danger" size="xs" text="R+"]
-- [Kona chan](https://konachan.com/) [!badge variant="danger" size="xs" text="R+"]
-- [Safebooru](https://safebooru.org/) [!badge variant="success" size="xs" text="E"]
-- [Yandere](https://yande.re/post) [!badge variant="danger" size="xs" text="R+"]
-- [Zerochan](https://www.zerochan.net/) [!badge variant="ghost" size="xs" text="R"]
-
-
-![](/static/banner/info.png)
 ## Info
 ___
 
@@ -38,7 +24,7 @@ ___
 ### Anime
 
 
-#### Database
+#### Bases de dado
 - [aniDB](https://anidb.net/)
 - [Anilist](https://anilist.co/)
 - [Anime News Network](https://www.animenewsnetwork.com/)
@@ -46,7 +32,7 @@ ___
 - [MyAnimeList](https://myanimelist.net/)
 
 
-#### Schedule
+#### Cronogramas de lançamento
 - [Anica](https://anica.jp/)
 - [AniChart](https://anichart.net/)
 - [AnimeSchedule](https://animeschedule.net/)
@@ -56,7 +42,7 @@ ___
 - [Senpai.moe](https://www.senpai.moe/)
 
 
-#### Stats/Watch guide
+#### Guias para obras
 - [Anime Karma List](https://animekarmalist.com/)
 - [Anime Stats](https://anime-stats.net/)
 - [Kitsu Season Trends](https://season.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/wopian/kitsu-season-trends)
@@ -67,7 +53,7 @@ ___
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
 
 
-#### Index
+#### Index de releases
 - [Aniplaylist](https://aniplaylist.com/)
 - [Seadex](https://releases.moe/)
 - [Sneedex](https://sneedex.moe/) [!badge variant="ghost" icon="/static/icon/discord.svg" text="Bot"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
@@ -77,7 +63,7 @@ ___
 - [Indonasian Fansubbers' Index](https://www.fansub.id/home)
 
 
-### Miscellaneous
+### MiscellaneousMisc
 
 #### Light Novels
 - [Novel updates](https://www.novelupdates.com/)
@@ -89,19 +75,12 @@ ___
 - [VNStat](https://vnstat.net/)
 - [r/Visualnovels' links](https://www.reddit.com/r/visualnovels/wiki/links/)
 
-#### More
-- [Anilinks](https://anilinks.neocities.org/)
-- [AnimeCons](https://animecons.com/)
-- [VGMDB](https://vgmdb.net/)
-
-
-![](/static/banner/others.png)
 ## Others
 ___
 
-### Recommendations
+### Recomendações de diversas comunidades
 - ANN TOP 100 [Manga](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100) | [Anime](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100)
-- Visual Novel Recommendations
+- Recomendações de VN's
     - [VNDB](https://vndb.org/v?f=022gja3gja&s=34w)
     - [Starter pack](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub)
     - [VN-chart by difficulty](https://anacreondjt.gitlab.io/vn-chart/)
@@ -109,7 +88,7 @@ ___
     - [r/VN's 2018](https://vnrecs.github.io/)
     - [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
 
-### Japanese learning guide
+### Guias para aprender o 日本語
 - [Japanese Language Study Space](https://discord.gg/jlss)
 - [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
 - [WaniKani](https://www.wanikani.com/)
@@ -124,21 +103,19 @@ ___
 - [TheMoeWay](https://learnjapanese.moe/)
 
 
-### Fansubbing Guide
+### Guias para aprender a fazer fansub
 - [Encode](https://guide.encode.moe/)
 - [Goodjob Media](https://www.goodjobmedia.com/fansubbing/)
 - [Unanimated](https://unanimated.github.io/guides.htm)
 - [Yukisubs](https://yukisubs.wordpress.com/guides/)
 
-### More
+### Pode também ser útil
 - [MPV Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/)
 - [r/visualnovels' guide](https://www.reddit.com/r/visualnovels/wiki/links/#wiki_guides)
 - [TRaSH-Guides](https://trash-guides.info/)
 - [vocaloid pastebin for /jp/](https://pastebin.com/jDHxU1Jw)
 
-
-![](/static/banner/portals.png)
-## Portals
+## Portais
 ____
 
 - [Anime Corner](https://animecorner.me/)
@@ -152,17 +129,16 @@ ____
 - [Manga Mogura RE](https://twitter.com/MangaMoguraRE)
 - [Vocasphere](https://vocasphere.net/)
 
+## Ferramentas
 
-![](/static/banner/tools.png)
-## Tools
 ___
-### Analysis
+### Análises
 - [anime.plus](https://anime.plus/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/anime-plus/graph) [!badge variant="ghost" size="xs" text="MAL"]
 - [MAL Badges](https://www.mal-badges.com/) [!badge variant="ghost" size="xs" text="MAL"]
 - [Sekai](https://sekai.rl404.com/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/rl404/sekai) [!badge variant="ghost" size="xs" text="MAL"]
 - [Sprout Anime Recommender](https://anime.ameo.dev/) [!badge variant="ghost" size="xs" text="MAL"]  [!badge variant="ghost" size="xs" text="AL"]
 
-### Image search
+### Buscar anime/mangá por imagens
 - [SauceKudasai](https://saucekudasai.com/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/ayushgptaa/SauceKudasai)
 - [SauceNAO](https://saucenao.com/)
 - [Trace](https://trace.moe/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/soruly/trace.moe)
@@ -176,7 +152,7 @@ ___
 - [Mangaupdates](https://www.mangaupdates.com/)
 - [Novel updates](https://www.novelupdates.com/)
 
-### Others
+### Outros
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/)
 - [Anipool](https://www.anipool.app/)
 - [Imgtrans](https://touhou.ai/imgtrans/) [!badge variant="dark" icon="mark-github" size="xs" text="Github"](https://github.com/zyddnys/manga-image-translator)

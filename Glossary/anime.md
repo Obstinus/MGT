@@ -3,67 +3,65 @@ label: Anime
 order: 100
 ---
 
-![](/static/thumb/anime.png)
-# Anime Glossary
-Anime portion of the Wotaku glossary!
-
+# Glossário de animes
 ___
-## Terms
+## Termos
 
-| Terms     | Meaning { class="compact" } |
+| Termos | Significado { class="compact" } |
 | ------ | ------ |
-| Anison | The abbreviated form of Anime Song. It indicates the songs present in the Anime. Generally opening and ending.  |
-| Canon | Canon refers to content that was not present in the original source material but is part of the anime storyline. Canon is used to expand the world-building of the anime, fix the pacing of the source material or more character developement. |
-| Filler | Filler refers to content that was not present in the original source material & doesn't affect the storyline. During filler, story doesn't get any progression. |
-| Genga | The raw keyframes of an anime scene. Example: [Jujutsu Kaisen](https://www.youtube.com/watch?v=XosvkKK1HCc) |
-| OAD | Original Animation DVD. OVAs that were bundled with the source material (eg. manga). |
-| ONA | Rriginal Net Animation. Anime that was originally released on an OTT platform. |
-| Original Anime | Anime that's not an adaptation of existing material such as Manga, Light novel, picture book etc. |
-| OVA | Original Video Animation. Anime that was originally released on a physically medium. |
-| PV | Promotional videos of the anime. Generally teaser, trailer, preview etc. |
-| Seiyuu/VA | The voice actor/actress of the anime. |
+| Anison | A forma abreviada de Anime Song. Indica as músicas presentes no anime. Geralmente, a abertura e o final.  |
+| Canon  | Refere-se ao conteúdo que não estava presente no material original, mas que faz parte do enredo do anime. O cânone é usado para expandir a construção do mundo do anime, corrigir o ritmo do material de origem ou desenvolver mais os personagens. |
+| Filler | Filler refere-se ao conteúdo que não estava presente no material de origem original e não afeta o enredo. Durante o filler, a história não tem nenhuma progressão. |
+| Genga | Os quadros-chave brutos de uma cena de anime. Exemplo: [Jujutsu Kaisen](https://www.youtube.com/watch?v=XosvkKK1HCc) |
+| OAD | DVD de animação original. OVAs que foram empacotados com o material de origem (por exemplo, mangá). |
+| ONA | Rriginal Net Animation. Anime que foi originalmente lançado em uma plataforma OTT. |
+| Original Anime | Anime que não é uma adaptação de material existente, como mangá, romance leve, livro ilustrado etc. |
+| OVA | Animação de vídeo original. Anime que foi originalmente lançado em uma mídia física. |
+| PV | Vídeos promocionais do anime. Geralmente teaser, trailer, prévia etc. |
+| Seiyuu/VA | O dublador/atriz do anime. |
 
 
-=== Cour, Season, Split-cour
-In Japanese TV, the broadcast schedule is divided into four seasons: Spring (March - May), Summer (June - August), Autumn (September - November), and Winter (December - February). This means that an anime can have 13 episodes in each season.
+=== Cour, Temporada, Split-cour
+Na TV japonesa, a programação de transmissão é dividida em quatro estações: Primavera (março a maio), verão (junho a agosto), outono (setembro a novembro) e inverno (dezembro a fevereiro). Isso significa que um anime pode ter 13 episódios em cada temporada.
 
-- **Cour:** Each 13eps/season is called a cour.
-- **Season:** The continuous run of an anime is called a season. It can be a 1 core (Example: [Chainsaw Man](https://anilist.co/anime/127230/Chainsaw-Man)), 2 core anime (Example: [Kimetsu no Yaiba](https://anilist.co/anime/101922/Kimetsu-no-Yaiba)) or a 4 core (Example: [Naruto](https://anilist.co/anime/20/NARUTO))
-- **Split-cour:** When the anime season isn't continuous and has a break of one or two cour. Example: [Spy x Family](https://anilist.co/anime/142838/SPYFAMILY-Part-2)
+- **Cour:** Cada 13eps/temporada é chamado de cour.
+- **Temporada:** A execução contínua de um anime é chamada de temporada. Pode ser um anime de 1 núcleo (exemplo: [Chainsaw Man] (https://anilist.co/anime/127230/Chainsaw-Man)), anime de 2 núcleos (Exemplo: [Kimetsu no Yaiba](https://anilist.co/anime/101922/Kimetsu-no-Yaiba)) ou um anime de 4 núcleos (Exemplo: [Naruto](https://anilist.co/anime/20/NARUTO))
+- **Split-cour:** Quando a temporada do anime não é contínua e tem um intervalo de um ou dois meses. Exemplo: [Spy x Family](https://anilist.co/anime/142838/SPYFAMILY-Part-2)
 
 ===
 ___
 
 ## Sections
 
-| Terms     | Meaning { class="compact" } |
+| Termos | Significado { class="compact" } |
 | ------ | ------ |
-|  Branding  | The logo animation of studious and distributor of the anime are shown here. [Example](https://www.youtube.com/watch?v=Dt-BaKnnIRI) |
-|  Recap  |   Recaps the previous epsisode(s). Generally it's found in long running shounen series. [Example](https://www.youtube.com/watch?v=R8jVqCKt4ZI) |
-|  Cold Opening |   It's the portion of the anime before the OP. Sometimes it can be just recap or a setup for the episode.  |
-|  OP  |  Opening sequence of the anime. Although sometimes they are placed before the eyecatch. It's basically an animated music video of the anime showing the nature of the characters. The scenes can be anime original. The OPs are generally 1.5 minutes long. |
-|  Title Card  |  Also known as Title sequence. It is a part of the OP.  |
-|  Mixed OP  |  When the OP is overlaid with the plot of the anime.  |
-|  Eyecatch  | The animated sequence before the ad break or the end of first part. It's generally a still frame. [Example](https://www.youtube.com/watch?v=9h4IQHBX63k)  |
-|  ED |   The ending sequence of the anime.  |
-|  Mixed ED  |  Same as Mixed OP but for ED. [Example](https://www.youtube.com/watch?v=2ikL1vGhMLw)  |
-|  Omake  |   An extra portion of the episode. Generally a filler. [Example](https://www.youtube.com/watch?v=Dtu_1bzSmL8)   |
-|  Preview  |   Shows a glimpse of the next episode generally action sequence. This is also used as PV.   |
+| Branding | A animação do logotipo do estudioso e distribuidor do anime é mostrada aqui. [Exemplo](https://www.youtube.com/watch?v=Dt-BaKnnIRI) |
+| Recapitulação | Recapitula o(s) episódio(s) anterior(es). Geralmente é encontrado em séries shounen de longa duração. [Exemplo] (https://www.youtube.com/watch?v=R8jVqCKt4ZI)
+| Cold Opening | É a parte do anime antes da OP. Às vezes, pode ser apenas uma recapitulação ou uma preparação para o episódio.  |
+| OP | Sequência de abertura do anime. Embora às vezes seja colocada antes do eyecatch. É basicamente um vídeo musical animado do anime que mostra a natureza dos personagens. As cenas podem ser originais do anime. As OPs geralmente têm 1,5 minuto de duração. |
+| Title Card | Também conhecido como sequência de título. É uma parte da OP.  |
+| OP mista: Quando a OP é sobreposta ao enredo do anime.  |
+| Eyecatch | Sequência animada antes do intervalo do anúncio ou do final da primeira parte. Geralmente é um quadro estático. [Exemplo](https://www.youtube.com/watch?v=9h4IQHBX63k) |
+| ED | A sequência final do anime.  |
+| Mixed ED | O mesmo que Mixed OP, mas para ED. [Exemplo](https://www.youtube.com/watch?v=2ikL1vGhMLw) | |
+| Omake | Uma parte extra do episódio. Geralmente é um filler. [Exemplo](https://www.youtube.com/watch?v=Dtu_1bzSmL8)
+| Preview | Mostra um vislumbre do próximo episódio, geralmente uma sequência de ação. Também é usado como PV.   |
 
 ___
-## File
 
-| Terms     | Meaning { class="compact" } |
+## Arquivos
+
+| Termos | Significado { class="compact" } |
 | ------ | ------ |
-|  WEB-DL  |  When the video is downloaded from various OTT releases like Crunchyroll, HiDive, Netflix etc.  |
-|  Blu-ray  |   Many anime series relese their blu-ray edition. The advantages of having a Blu-ray version will differ from one anime series to another. Some studios may fix various animation issues such as facial expressions, shadows, effects, color, and brightness. In some cases, additional scenes may be added or the entire animation may be redrawn. Also they will uncensor  scenes. However, it's important to note that not every Blu-ray release will have these enhancements. Here's [an Example](https://www.youtube.com/watch?v=bdGXb41_KYk) of comparing a TV release with a Blu-ray release.  |
-|  BDRemux  |   If a video is sourced from a Blu-ray, typically a Japanese one, without undergoing any encoding process. Remux files are generally very big in file size. Also you need good monitors and soundbox to get the full remux quality.   |
-|  BDRip  |   The encoded version of the Blu-ray Remux. These are smaller in size compared to BDRemux. So easy to find since it's easier to host or seed.   |
-|  x264 & x265  |   The codec x264 utilizes the H.264(a.k.a AVC) standard for compression while x265 employs the H.265(a.k.a HEVC) standard. x265 offers superior compression and supports higher resolutions, but its use requires more computational resources. In contrast, x264 enjoys wider support and can be played on a greater variety of devices, however, the video quality may not match that of x265 for equivalent bitrates.   |
-|  Re-encode  |  Encodes an already encoded file, as a result loses more quality.  |
-|  Mini encode  |   Encodes such a way that the sizes are really small. The main target is to get lower file size. So, it loses the quality. Mini encode of Blu-ray releases maybe worth keeping. Otherwise the qualities aren't that great.   |
-|  Raw  |   The original file from the Blu-ray disk or OTT platform.   |
-|  Fansub  |  Unoffical translated subtitles for the anime.  |
-|  Hardsub  |  When the subtitle of the anime is encoded in the video. You can't change the font style but the sub won't get messed up because of the player issue.  |
-|  Softsub  |   The subtitles are attached in the video but not encoded. As result, you can change the subtitle appearence. But. if the player isn't capable, it may mess up the subtitles if the subtitles have multiple layer. Also, you can have multiple subtitles in a single file.  |
-|  Interpolation  |   Artificially creates frames in between to increase the fps. And **NO!. These are shit!** [Here's](https://www.youtube.com/watch?v=_KRb_qV9P4g) why.  |
+| WEB-DL | Quando o vídeo é baixado de vários lançamentos OTT, como Crunchyroll, HiDive, Netflix etc.  |
+| Blu-ray | Muitas séries de anime lançam sua edição em blu-ray. As vantagens de ter uma versão em Blu-ray variam de uma série de anime para outra. Alguns estúdios podem corrigir vários problemas de animação, como expressões faciais, sombras, efeitos, cores e brilho. Em alguns casos, cenas adicionais podem ser adicionadas ou a animação inteira pode ser redesenhada. Além disso, as cenas podem ser removidas da censura. Entretanto, é importante observar que nem todos os lançamentos em Blu-ray terão esses aprimoramentos. Aqui está [um exemplo] (https://www.youtube.com/watch?v=bdGXb41_KYk) de comparação de um lançamento de TV com um lançamento de Blu-ray.  |
+| BDRemux | Se um vídeo for obtido de um Blu-ray, geralmente japonês, sem passar por nenhum processo de codificação. Os arquivos Remux geralmente têm um tamanho muito grande. Além disso, você precisa de bons monitores e caixa de som para obter a qualidade total do remux.   |
+| BDRip | A versão codificada do Blu-ray Remux. Elas são menores em tamanho do que o BDRemux. É fácil de encontrar, pois é mais fácil hospedar ou distribuir.   |
+|  x264 & x265  | O codec x264 utiliza o padrão H.264 (também conhecido como AVC) para compactação, enquanto o x265 utiliza o padrão H.265 (também conhecido como HEVC). O x265 oferece compactação superior e suporta resoluções mais altas, mas seu uso exige mais recursos computacionais. Por outro lado, o x264 tem suporte mais amplo e pode ser reproduzido em uma variedade maior de dispositivos; no entanto, a qualidade do vídeo pode não corresponder à do x265 para taxas de bits equivalentes.   |
+| Re-encode | Codifica um arquivo já codificado e, como resultado, perde mais qualidade.  |
+| Mini encode | Codifica de forma que os tamanhos sejam realmente pequenos. O objetivo principal é reduzir o tamanho do arquivo. Portanto, perde-se a qualidade. Talvez valha a pena manter a minicodificação dos lançamentos de Blu-ray. Caso contrário, as qualidades não são tão boas.   |
+| Raw | O arquivo original do disco Blu-ray ou da plataforma OTT.   |
+| Fansub | Legendas não oficiais traduzidas para o anime.  |
+| Hardsub | Quando a legenda do anime é codificada no vídeo. Não é possível alterar o estilo da fonte, mas a legenda não ficará bagunçada devido ao problema do player.  |
+| Softsub | As legendas são anexadas ao vídeo, mas não codificadas. Como resultado, você pode alterar a aparência da legenda. Porém, se o player não for capaz, ele poderá bagunçar as legendas se elas tiverem várias camadas. Além disso, é possível ter várias legendas em um único arquivo.  |
+| Interpolation | Cria artificialmente quadros entre eles para aumentar o fps. E **NÃO! Isso é uma merda! [Aqui está](https://www.youtube.com/watch?v=_KRb_qV9P4g) o porquê.  |
