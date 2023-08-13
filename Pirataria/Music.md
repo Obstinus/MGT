@@ -16,6 +16,8 @@ Você precisará de uma assinatura paga do Deezer, Qobuz, Tidal e Spotify para b
 - [Deemix](https://archive.org/details/deemix) [!badge variant="contrast" size="xs" text="Deezer"]
 - [Free MP3 Download](https://free-mp3-download.net/) [!badge variant="contrast" size="xs" text="Deezer FLAC"]
 - [SlavArt Divolt Server](https://slavart.divolt.xyz/) [!badge variant="contrast" size="xs" text="Multi HI-RES"]
+- [YtmDL Web](https://ytmdl.deepjyoti30.dev/) [!badge variant="contrast" size="xs" text="Youtube Music"]
+- [Hikarinoakariost](https://hikarinoakari.com/) | [Sukidesuost](https://sukidesuost.info/) [!badge variant="contrast" size="xs" text="Anison"]
 ===
 
 ## Descoberta de novas músicas
@@ -34,3 +36,10 @@ Você precisará de uma assinatura paga do Deezer, Qobuz, Tidal e Spotify para b
     - Um site de descoberta de música que usa um algoritmo excelente para recomendar novas músicas aos usuários com base em seus hábitos de escuta de música.
 - [Playlist Miner](http://playlistminer.playlistmachinery.com/index.html)
     - Ele agrega as principais faixas das listas de reprodução públicas mais populares no Spotify que correspondem aos seus critérios de pesquisa. Procurando as melhores playlists de treino? Digite o termo treino e ele encontrará as faixas que apareceram com mais frequência nas playlists de treino.
+
+## Misc 
+
+- [Firehawk52 Guide](https://rentry.org/firehawk52)
+    - Um Mega-Guia para ferramentas e ARLs para copiar músicas de serviços de streaming populares.
+- [Tune My Music ](https://www.tunemymusic.com/)
+    - Transfira sua biblioteca de música de qualquer serviço de música para qualquer outra que desejar. Suporta Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Pandora e muitos mais.
