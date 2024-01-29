@@ -88,19 +88,23 @@ ___
     - [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
 
 ### Guias para aprender o 日本語
-- [Japanese Language Study Space](https://discord.gg/jlss)
-- [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
-- [WaniKani](https://www.wanikani.com/)
-- [Ankiweb](https://ankiweb.net/shared/info/911122782)
-- [ichi.moe](https://ichi.moe/)
-- [itazuraneko](https://itazuraneko.neocities.org/)
-- [IMABI](https://imabi.net/)
-- [jisho](https://jisho.org/)
-- [jpdb](https://www.jpdb.io/)
-- [Marshall's Site](https://marshallyin.com/)
-- [Organic Japanese with Cure Dolly](https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ)
-- [TheMoeWay](https://learnjapanese.moe/)
 
++++ Iniciantes
+- [Tatsumoto](https://tatsumoto.neocities.org/)
+- [Refold Japanese](https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit)
+- [Perdition](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
+- [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit)
+- [DJT Guide](https://djtguide.neocities.org/guide)
+- [Marshall's Site](https://marshallyin.com/)
+- [TheMoeWay](https://learnjapanese.moe/)
++++ Outros Guias
+- [itazuraneko](https://djtguide.github.io/learn/learnmain.html)
+- [TOFUGU](https://www.tofugu.com/)
+- [An introduction to Japanese](https://pomax.github.io/nrGrammar/)
++++ Dicionários
+- [Jisho](https://jisho.org)
+- [JPDB](https://www.jpdb.io/)
++++
 
 ### Guias para aprender a fazer fansub
 - [Encode](https://guide.encode.moe/)
