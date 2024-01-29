@@ -6,4 +6,4 @@ icon: ":sparkling_heart:"
 ---
 
 # Credits
-Toda essa wiki é inspirado na Wotaku.
+Esta wiki não passa de uma curadoria  da Wotaku e da FMHY.

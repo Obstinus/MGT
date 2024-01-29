@@ -8,6 +8,7 @@ Use esses sites para ver seus filmes, séries e documentários prediletos.
 
 +++ Streaming em 1080p
 - [Movie-web](https://movie-web.app/search/movie)
+- [Braflix](https://www.braflix.app/)
 - [Just Chill](https://www.justchill.tv/home)
     - Excelente site, mas requer autenticação via Discord ou conta Google.
 - [Binge Watch](https://bingewatch.to/home)

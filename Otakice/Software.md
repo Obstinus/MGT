@@ -20,9 +20,11 @@ ___
 
 ### Anime
 
-- [**Saikou**](https://github.com/saikou-app/saikou/) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!badge variant="ghost" icon="globe" text="Web"](https://saikou.pages.dev/)
+- [**Dantotsu**](https://github.com/rebelonion/Dantotsu) [!badge variant="ghost" icon="video" text="TV"](https://github.com/siennaXD/SaikouTV/)  [!badge variant="ghost" icon="globe" text="Web"](https://dantotsu.app/)
+- Sucessor espiritual do Saikou
 - Interface de usuário decente, mas com personalização limitada
   - Pode ser usado off-line
+  - Sistema de extensões do Tachiyomi
   - Também oferece leitor de mangá e ln
   - Somente streaming/leitura de anime
   - Sincronização com Anilist e MAL
@@ -45,11 +47,12 @@ ___
 - [Animity](https://github.com/kl3jvi/animity)
 - [Enimax](https://github.com/enimax-anime/enimax)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
+
   ===
 
 ### Manga
 
-- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) [!badge variant="ghost" icon="globe" text="Web"](https://tachiyomi.org/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
+- [**Mihon**](https://mihon.app/download/) [!badge variant="ghost" icon="globe" text="Web"](https://mihon.app/) [!badge variant="ghost" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/)
   - Ótima interface de usuário personalizável
   - Toneladas de fontes de mangá
   - Suporte a download e leitor local
@@ -194,7 +197,7 @@ ___
   - Suporte a transmissão e notificação
   - Suporte a rastreamento
   - Episódio de download disponível
-  - Pequeno número de extensões 
+  - Pequeno número de extensões
   - Disponível somente por meio de sideload
 
 ### Manga

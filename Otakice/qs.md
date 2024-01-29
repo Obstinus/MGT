@@ -13,14 +13,12 @@ ___
 
 #### Anime
 - [Aniwave](https://aniwave.to/home) [!badge variant="dark" size="xs" text="aka 9anime"]
-- [Marin](https://marin.moe/)
-- [KickAssAnime](https://kickassanime.am/)
-- [Anime out](https://www.animeout.xyz/) [!badge variant="ghost" size="xs" text="DDL"]
+- [Anix](https://anix.to/home) [!badge variant="dark" size="xs" text="Aniwave com UI clean"]
+- [KickAssAnime](https://kickassanime.am/) [!badge variant="dark" size="xs" text="Utilizar a source duckstream, quando possível"]
 
 #### Manga
-- [Comick](https://comick.app/home)
+- [Comick](https://comick.cc/home)
 - [Mangadex](https://mangadex.org/)
-- [Atsumaru](https://atsu.moe/) | [Mangasee](https://mangasee123.com/)
 
 #### OST
 - [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="DDL"]
@@ -30,7 +28,6 @@ ___
 
 #### Torrent
 - [Nyaa](https://nyaa.si/)
-- [Animek](https://animek.fun/)
 - [Anime Tosho](https://animetosho.org/)
 
 ___
@@ -39,7 +36,7 @@ ___
 
 #### Android
 - [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) [!badge variant="ghost" size="xs" text="Manga"]
-- [Saikou](https://github.com/saikou-app/saikou/) [!badge variant="ghost" size="xs" text="Anime"]  [!badge variant="ghost" size="xs" text="Manga"]
+- [Dantotsu](https://github.com/rebelonion/Dantotsu) [!badge variant="ghost" size="xs" text="Anime"]  [!badge variant="ghost" size="xs" text="Manga"]
 - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) [!badge variant="ghost" size="xs" text="Anime"]  [!badge variant="ghost" size="xs" text="Manga"]
 - [Quicknovel](https://github.com/LagradOst/QuickNovel) [!badge variant="ghost" size="xs" text="Light Novel"]
 
@@ -56,4 +53,3 @@ ___
 
 #### Downloader
 - [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="ghost" size="xs" text="Anime"]  [!badge variant="ghost" size="xs" text="Manga"]
-

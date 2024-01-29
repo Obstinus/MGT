@@ -9,7 +9,7 @@ Melhore sua experiência na web e torne-a livre de anúncios, mais privada e sim
 
 === Navegadores
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
-- [Librewolf](https://librewolf.net/)
+- [Floorp](https://floorp.app/en/)
 - [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 - [Edge](https://www.microsoft.com/en-us/edge)
 ===

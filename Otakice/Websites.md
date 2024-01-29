@@ -37,10 +37,6 @@ ___
     - UI maravilhosa.
 - [**Aniwave**](https://aniwave.to/home) [!badge variant="dark" size="xs" text="aka 9anime"]
     - Biblioteca de animes grande.
-- [**Marin**](https://marin.moe/)
-    - Recodifica arquivos de outros encoders, mantendo uma boa qualidade
-    - Quando disponível, fazem upload de versões Blu-ray
-    - Biblioteca de animes menor, mas com maior qualidade.
 - [**Aniwatch**](https://aniwatch.to/home) [!badge variant="dark" size="xs" text="aka Zoro"]
     - Biblioteca de animes grande
     - Soft subs
@@ -111,7 +107,6 @@ ___
 ### Torrents
 
 - [Nyaa](https://nyaa.si/) [!badge variant="ghost" text="Proxy 1"](https://nyaa.iss.one/)  [!badge variant="ghost" text="Proxy 2"](https://nyaa.iss.ink/)
-- [Animek](https://animek.fun/)
 - [Anime Tosho](https://animetosho.org/)
 - [Anidex](https://anidex.info/)
 - [Anirena](https://www.anirena.com/)
@@ -140,7 +135,7 @@ ___
     * Uploads de vários scanlators diferentes
     * Sem traduções oficiais[^*^](https://mangadex.org/rules#content_restrictions), já que é feito para fansubs.
     * Ele pode remover conteúdo se receber algum DMCA, como ocorre, por exemplo, com One Punch Man.
-- [**Comick**](https://comick.app/home) [!badge variant="ghost" size="xs" text="R"]
+- [**Comick**](https://comick.cc/home) [!badge variant="ghost" size="xs" text="R"]
     * Site muito veloz
     * Agrega vários scanlators diferentes
     * Possui traduções oficiais.
@@ -227,7 +222,7 @@ ___
 - [xCaliBR Scans](https://xcalibrscans.com/) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr)
 ===
 
-> Eu adicionei todos os scanlators conhecidos para manhwa e manhua, mas para mangá, não é prático ou possível adicionar todos os famosos.
+> Adicionei todos os scanlators conhecidos para manhwa e manhua. Para mangás, não é prático ou possível adicionar todos os famosos.
 
 ### Uploaders do Nyaa
 - [0v3r](https://nyaa.si/user/0v3r) [!badge variant="ghost" size="xs" text="compilation"]
